@@ -1,0 +1,21 @@
+Регулярные выражения
+
+Hello. Emacs 26.2. the code:
+;;line => ***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash1/bash.texi***
+(string-match "\\*\\{3\\}ОбрФайл\\*\\{3\\}\\(?1:.+\\)\\*\\{3\\}" line)
+(match-string-no-properties 1);;=>*/home/alamd/example/funEl/expirement/perevod_bash1/bash.tex
+
+Объясните, почему получается такой результат. Я ожидал => /home/alamd/example/funEl/expirement/perevod_bash1/bash.texi. Когда использую re-builder, результат оправдывает ожидания
+---
+Regular expressions
+
+Hello. Emacs 26.2. the code:
+
+;;line => ***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash1/bash.texi***
+(string-match "\\*\\{3\\}ОбрФайл\\*\\{3\\}\\(?1:.+\\)\\*\\{3\\}" line)
+(match-string-no-properties 1);;=>*/home/alamd/example/funEl/expirement/perevod_bash1/bash.tex
+
+Explain why you get this result. I was expecting => /home/alamd/example/funEl/expirement/perevod_bash1/bash.texi. When using re-builder, the result lives up to expectations.
+
+
+==============================================================================================================

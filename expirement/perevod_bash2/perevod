@@ -1,0 +1,750 @@
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash2/bash.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash2/fdl.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash2/hsuser.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash2/rluser.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash2/version.texi***
+ЯкорьНода***Concept Index
+ТочкаНоды***##*@node Concept Index*##Перевод#**@node Содержание**#
+СдржНд***##*@appendixsec Concept Index*##Перевод#**@appendixsec Общее представление**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Function Index
+ТочкаНоды***##*@node Function Index*##Перевод#**@node Функции**#
+СдржНд***##*@appendixsec Function Index*##Перевод#**@appendixsec Функции**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Variable Index
+ТочкаНоды***##*@node Variable Index*##Перевод#**@node Переменные**#
+СдржНд***##*@appendixsec Parameter and Variable Index*##Перевод#**@appendixsec Параметры и Переменные**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Reserved Word Index
+ТочкаНоды***##*@node Reserved Word Index*##Перевод#**@node Зарезервированные Слова**#
+СдржНд***##*@appendixsec Index of Shell Reserved Words*##Перевод#**@appendixsec Shell Зарезервированные слова**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Builtin Index
+ТочкаНоды***##*@node Builtin Index*##Перевод#**@node Встроенное**#
+СдржНд***##*@appendixsec Index of Shell Builtin Commands*##Перевод#**@appendixsec Shell Встроенные команды**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Indexes
+ТочкаНоды***##*@node Indexes*##Перевод#**@node Индекс**#
+СдржНд***##*@appendix Indexes*##Перевод#**@appendix Индекс**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***GNU Free Documentation License
+ТочкаНоды***##*@node GNU Free Documentation License*##Перевод#**@node GNU Документ Свободная Лицензия**#
+СдржНд***##*@appendix GNU Free Documentation License*##Перевод#**@appendix GNU Документ Свободная Лицензия**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Major Differences From The Bourne Shell
+ТочкаНоды***##*@node Major Differences From The Bourne Shell*##Перевод#**@node Основные отличия от Bourne Shell**#
+СдржНд***##*@appendix Major Differences From The Bourne Shell*##Перевод#**@appendix Основные отличия от Bourne Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Reporting Bugs
+ТочкаНоды***##*@node Reporting Bugs*##Перевод#**@node Сообщения об ошибках**#
+СдржНд***##*@appendix Reporting Bugs*##Перевод#**@appendix Сообщения об ошибках**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Optional Features
+ТочкаНоды***##*@node Optional Features*##Перевод#**@node Дополнительные возможности**#
+СдржНд***##*@section Optional Features*##Перевод#**@section Дополнительные возможности**#
+***СсылкиНаНоду***
+##*(@pxref{Optional Features})*##Перевод#**(@pxref{Дополнительные возможности})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Operation Controls
+ТочкаНоды***##*@node Operation Controls*##Перевод#**@node Управление Заданиями**#
+СдржНд***##*@section Operation Controls*##Перевод#**@section Управление Заданиями**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Sharing Defaults
+ТочкаНоды***##*@node Sharing Defaults*##Перевод#**@node Совместное использование значения по умолчанию**#
+СдржНд***##*@section Sharing Defaults*##Перевод#**@section Совместное использование значения по умолчанию**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Specifying the System Type
+ТочкаНоды***##*@node Specifying the System Type*##Перевод#**@node Указание типа системы**#
+СдржНд***##*@section Specifying the System Type*##Перевод#**@section Указание типа системы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Installation Names
+ТочкаНоды***##*@node Installation Names*##Перевод#**@node Имена Установочные**#
+СдржНд***##*@section Installation Names*##Перевод#**@section Имена Установочные**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Compiling For Multiple Architectures
+ТочкаНоды***##*@node Compiling For Multiple Architectures*##Перевод#**@node Компиляция для нескольких архитектур**#
+СдржНд***##*@section Compiling For Multiple Architectures*##Перевод#**@section Компиляция для нескольких архитектур**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Compilers and Options
+ТочкаНоды***##*@node Compilers and Options*##Перевод#**@node Компиляторы и опции**#
+СдржНд***##*@section Compilers and Options*##Перевод#**@section Компиляторы и опции**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Basic Installation
+ТочкаНоды***##*@node Basic Installation*##Перевод#**@node Базовая установка**#
+СдржНд***##*@section Basic Installation*##Перевод#**@section Базовая установка**#
+***СсылкиНаНоду***
+##*(@pxref{Basic Installation})*##Перевод#**(@pxref{Базовая установка})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Installing Bash
+ТочкаНоды***##*@node Installing Bash*##Перевод#**@node Установка Bash**#
+СдржНд***##*@chapter Installing Bash*##Перевод#**@chapter Установка Bash**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Job Control Variables
+ТочкаНоды***##*@node Job Control Variables*##Перевод#**@node Переменные Управления Работой**#
+СдржНд***##*@section Job Control Variables*##Перевод#**@section Переменные Управления Работой**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Variables})*##Перевод#**(@pxref{Переменные Управления Работой})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Job Control Builtins
+ТочкаНоды***##*@node Job Control Builtins*##Перевод#**@node Управление Работой Встроенных команд**#
+СдржНд***##*@section Job Control Builtins*##Перевод#**@section Управление Работой Встроенных команд**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Builtins})*##Перевод#**(@pxref{Управление Работой Встроенных команд})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Job Control Basics
+ТочкаНоды***##*@node Job Control Basics*##Перевод#**@node Основы Управления Исполнением**#
+СдржНд***##*@section Job Control Basics*##Перевод#**@section Основы Управления Исполнением**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Basics})*##Перевод#**(@pxref{Основы Управления Исполнением})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Job Control
+ТочкаНоды***##*@node Job Control*##Перевод#**@node Контроль Исполнения**#
+СдржНд***##*@chapter Job Control*##Перевод#**@chapter Контроль Исполнения**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control})*##Перевод#**(@pxref{Контроль Исполнения})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash POSIX Mode
+ТочкаНоды***##*@node Bash POSIX Mode*##Перевод#**@node Bash POSIX Режим**#
+СдржНд***##*@section Bash POSIX Mode*##Перевод#**@section Bash POSIX Режим**#
+***СсылкиНаНоду***
+##*@xref{Bash POSIX Mode}*##Перевод#**@xref{Bash POSIX Режим}**#
+##*@ref{Bash POSIX Mode}*##Перевод#**@ref{Bash POSIX Режим}**#
+##*(@pxref{Bash POSIX Mode})*##Перевод#**(@pxref{Bash POSIX Режим})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***The Restricted Shell
+ТочкаНоды***##*@node The Restricted Shell*##Перевод#**@node Ограниченный Shell**#
+СдржНд***##*@section The Restricted Shell*##Перевод#**@section Ограниченный Shell**#
+***СсылкиНаНоду***
+##*@ref{The Restricted Shell}*##Перевод#**@ref{Ограниченный Shell}**#
+##*(@pxref{The Restricted Shell})*##Перевод#**(@pxref{Ограниченный Shell})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Controlling the Prompt
+ТочкаНоды***##*@node Controlling the Prompt*##Перевод#**@node Управление В Командой Строке**#
+СдржНд***##*@section Controlling the Prompt*##Перевод#**@section Управление В Командой Строке**#
+***СсылкиНаНоду***
+##*@ref{Controlling the Prompt}*##Перевод#**@ref{Управление В Командой Строке}**#
+##*@xref{Controlling the Prompt}*##Перевод#**@xref{Управление В Командой Строке}**#
+##*(@pxref{Controlling the Prompt})*##Перевод#**(@pxref{Управление В Командой Строке})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Directory Stack Builtins
+ТочкаНоды***##*@node Directory Stack Builtins*##Перевод#**@node Каталог Stack Встроенные команды**#
+СдржНд***##*@subsection Directory Stack Builtins*##Перевод#**@subsection Каталог Stack Встроенные команды**#
+***СсылкиНаНоду***
+##*(@pxref{Directory Stack Builtins})*##Перевод#**(@pxref{Каталог Stack Встроенные команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***The Directory Stack
+ТочкаНоды***##*@node The Directory Stack*##Перевод#**@node Каталог Stack**#
+СдржНд***##*@section The Directory Stack*##Перевод#**@section Каталог Stack**#
+***СсылкиНаНоду***
+##*(@pxref{The Directory Stack})*##Перевод#**(@pxref{Каталог Stack})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Arrays
+ТочкаНоды***##*@node Arrays*##Перевод#**@node Массивы**#
+СдржНд***##*@section Arrays*##Перевод#**@section Массивы**#
+***СсылкиНаНоду***
+##*(@pxref{Arrays})*##Перевод#**(@pxref{Массивы})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Aliases
+ТочкаНоды***##*@node Aliases*##Перевод#**@node Псевдонимы**#
+СдржНд***##*@section Aliases*##Перевод#**@section Псевдонимы**#
+***СсылкиНаНоду***
+##*@ref{Aliases}*##Перевод#**@ref{Псевдонимы}**#
+##*(@pxref{Aliases})*##Перевод#**(@pxref{Псевдонимы})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Arithmetic
+ТочкаНоды***##*@node Shell Arithmetic*##Перевод#**@node Shell Арифметические выражения**#
+СдржНд***##*@section Shell Arithmetic*##Перевод#**@section Shell Shell Арифметические выражения**#
+***СсылкиНаНоду***
+##*@ref{Shell Arithmetic}*##Перевод#**@ref{Shell Shell Арифметические выражения}**#
+##*(@pxref{Shell Arithmetic})*##Перевод#**(@pxref{Shell Shell Арифметические выражения})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash Conditional Expressions
+ТочкаНоды***##*@node Bash Conditional Expressions*##Перевод#**@node Bash Условные Выражения**#
+СдржНд***##*@section Bash Conditional Expressions*##Перевод#**@section Bash Условные Выражения**#
+***СсылкиНаНоду***
+##*(@pxref{Bash Conditional Expressions})*##Перевод#**(@pxref{Bash Условные Выражения})**#
+##*@ref{Bash Conditional Expressions}*##Перевод#**@ref{Bash Условные Выражения}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Interactive Shell Behavior
+ТочкаНоды***##*@node Interactive Shell Behavior*##Перевод#**@node Интерактивный Shell**#
+СдржНд***##*@subsection Interactive Shell Behavior*##Перевод#**@subsection Интерактивный Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Is this Shell Interactive?
+ТочкаНоды***##*@node Is this Shell Interactive?*##Перевод#**@node Является Shell Интерактивным?**#
+СдржНд***##*@subsection Is this Shell Interactive?*##Перевод#**@subsection Является Shell Интерактивным?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***What is an Interactive Shell?
+ТочкаНоды***##*@node What is an Interactive Shell?*##Перевод#**@node Что такое интерактивная оболочка?**#
+СдржНд***##*@subsection What is an Interactive Shell?*##Перевод#**@subsection Что такое интерактивная оболочка?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Interactive Shells
+ТочкаНоды***##*@node Interactive Shells*##Перевод#**@node Интерактивные Командные Интерпритаторы**#
+СдржНд***##*@section Interactive Shells*##Перевод#**@section Интерактивные Командные Интерпритаторы**#
+***СсылкиНаНоду***
+##*@ref{Interactive Shells}*##Перевод#**@ref{Интерактивные Командные Интерпритаторы}**#
+##*@xref{Interactive Shells}*##Перевод#**@xref{Интерактивные Командные Интерпритаторы}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash Startup Files
+ТочкаНоды***##*@node Bash Startup Files*##Перевод#**@node Bash Начальные Файлы**#
+СдржНд***##*@section Bash Startup Files*##Перевод#**@section Bash Начальные Файлы**#
+***СсылкиНаНоду***
+##*@ref{Bash Startup Files}*##Перевод#**@ref{Bash Начальные Файлы}**#
+##*@xref{Bash Startup Files}*##Перевод#**@xref{Bash Начальные Файлы}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Invoking Bash
+ТочкаНоды***##*@node Invoking Bash*##Перевод#**@node Вызов Bash**#
+СдржНд***##*@section Invoking Bash*##Перевод#**@section Вызов Bash**#
+***СсылкиНаНоду***
+##*(@pxref{Invoking Bash})*##Перевод#**(@pxref{Вызов Bash})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash Features
+ТочкаНоды***##*@node Bash Features*##Перевод#**@node Bash Особенности**#
+СдржНд***##*@chapter Bash Features*##Перевод#**@chapter Bash Особенности**#
+***СсылкиНаНоду***
+##*@ref{Bash Features}*##Перевод#**@ref{Bash Особенности}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash Variables
+ТочкаНоды***##*@node Bash Variables*##Перевод#**@node Переменные Bash**#
+СдржНд***##*@section Bash Variables*##Перевод#**@section Переменные Bash**#
+***СсылкиНаНоду***
+##*@xref{Bash Variables}*##Перевод#**@xref{Переменные Bash}**#
+##*(@pxref{Bash Variables})*##Перевод#**(@pxref{Переменные Bash})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bourne Shell Variables
+ТочкаНоды***##*@node Bourne Shell Variables*##Перевод#**@node Bourne Shell Переменные**#
+СдржНд***##*@section Bourne Shell Variables*##Перевод#**@section Bourne Shell Переменные**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Variables
+ТочкаНоды***##*@node Shell Variables*##Перевод#**@node Переменные Командного Интерпритатора**#
+СдржНд***##*@chapter Shell Variables*##Перевод#**@chapter Переменные Командного Интерпритатора**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Special Builtins
+ТочкаНоды***##*@node Special Builtins*##Перевод#**@node Специальные Модули**#
+СдржНд***##*@section Special Builtins*##Перевод#**@section Специальные Модули**#
+***СсылкиНаНоду***
+##*(@pxref{Special Builtins})*##Перевод#**(@pxref{Специальные Модули})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***The Shopt Builtin
+ТочкаНоды***##*@node The Shopt Builtin*##Перевод#**@node Настройка**#
+СдржНд***##*@subsection The Shopt Builtin*##Перевод#**@subsection Настройка**#
+***СсылкиНаНоду***
+##*@ref{The Shopt Builtin}*##Перевод#**@ref{Настройка}**#
+##*(@pxref{The Shopt Builtin})*##Перевод#**(@pxref{Настройка})**#
+##*@xref{The Shopt Builtin}*##Перевод#**@xref{Настройка}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***The Set Builtin
+ТочкаНоды***##*@node The Set Builtin*##Перевод#**@node Установка**#
+СдржНд***##*@subsection The Set Builtin*##Перевод#**@subsection Установка**#
+***СсылкиНаНоду***
+##*(@pxref{The Set Builtin})*##Перевод#**(@pxref{Установка})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Modifying Shell Behavior
+ТочкаНоды***##*@node Modifying Shell Behavior*##Перевод#**@node Модификация Командного Интерпритатора**#
+СдржНд***##*@section Modifying Shell Behavior*##Перевод#**@section Модификация Командного Интерпритатора**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash Builtins
+ТочкаНоды***##*@node Bash Builtins*##Перевод#**@node Bash Встроенные команды**#
+СдржНд***##*@section Bash Builtin Commands*##Перевод#**@section Bash Встроенные команды**#
+***СсылкиНаНоду***
+##*@ref{Bash Builtins}*##Перевод#**@ref{Bash Встроенные команды}**#
+##*@xref{Bash Builtins}*##Перевод#**@xref{Bash Встроенные команды}**#
+##*(@pxref{Bash Builtins})*##Перевод#**(@pxref{Bash Встроенные команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bourne Shell Builtins
+ТочкаНоды***##*@node Bourne Shell Builtins*##Перевод#**@node Bourne Shell Встроенные Команды**#
+СдржНд***##*@section Bourne Shell Builtins*##Перевод#**@section Bourne Shell Встроенные Команды**#
+***СсылкиНаНоду***
+##*@ref{Bourne Shell Builtins}*##Перевод#**@ref{Bourne Shell Встроенные Команды}**#
+##*@xref{Bourne Shell Builtins}*##Перевод#**@xref{Bourne Shell Встроенные Команды}**#
+##*(@pxref{Bourne Shell Builtins})*##Перевод#**(@pxref{Bourne Shell Встроенные Команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Builtin Commands
+ТочкаНоды***##*@node Shell Builtin Commands*##Перевод#**@node Встроенные Команды Интерпретатора**#
+СдржНд***##*@chapter Shell Builtin Commands*##Перевод#**@chapter Встроенные Команды Интерпретатора**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Builtin Commands})*##Перевод#**(@pxref{Встроенные Команды Интерпретатора})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Scripts
+ТочкаНоды***##*@node Shell Scripts*##Перевод#**@node Скрипты Оболочки**#
+СдржНд***##*@section Shell Scripts*##Перевод#**@section Скрипты Оболочки**#
+***СсылкиНаНоду***
+##*@ref{Shell Scripts}*##Перевод#**@ref{Скрипты Оболочки}**#
+##*(@pxref{Shell Scripts})*##Перевод#**(@pxref{Скрипты Оболочки})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Signals
+ТочкаНоды***##*@node Signals*##Перевод#**@node Сигналы**#
+СдржНд***##*@subsection Signals*##Перевод#**@subsection Сигналы**#
+***СсылкиНаНоду***
+##*(@pxref{Signals})*##Перевод#**(@pxref{Сигналы})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Exit Status
+ТочкаНоды***##*@node Exit Status*##Перевод#**@node Статус Выхода**#
+СдржНд***##*@subsection Exit Status*##Перевод#**@subsection Статус Выхода**#
+***СсылкиНаНоду***
+##*(@pxref{Exit Status})*##Перевод#**(@pxref{Статус Выхода})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Environment
+ТочкаНоды***##*@node Environment*##Перевод#**@node Среда Окружение**#
+СдржНд***##*@subsection Environment*##Перевод#**@subsection Среда Окружение**#
+***СсылкиНаНоду***
+##*(@pxref{Environment})*##Перевод#**(@pxref{Среда Окружение})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Command Execution Environment
+ТочкаНоды***##*@node Command Execution Environment*##Перевод#**@node Среда Выполнения Команд**#
+СдржНд***##*@subsection Command Execution Environment*##Перевод#**@subsection Среда Выполнения Команд**#
+***СсылкиНаНоду***
+##*(@pxref{Command Execution Environment})*##Перевод#**(@pxref{Среда Выполнения Команд})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Command Search and Execution
+ТочкаНоды***##*@node Command Search and Execution*##Перевод#**@node Команда Поиск и Выполнение**#
+СдржНд***##*@subsection Command Search and Execution*##Перевод#**@subsection Команда Поиск и Выполнение**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Simple Command Expansion
+ТочкаНоды***##*@node Simple Command Expansion*##Перевод#**@node Простые Команды Расширения**#
+СдржНд***##*@subsection Simple Command Expansion*##Перевод#**@subsection Простые Команды Расширения**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Executing Commands
+ТочкаНоды***##*@node Executing Commands*##Перевод#**@node Выполнение Команд**#
+СдржНд***##*@section Executing Commands*##Перевод#**@section Выполнение Команд**#
+***СсылкиНаНоду***
+##*(@pxref{Executing Commands})*##Перевод#**(@pxref{Выполнение Команд})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Redirections
+ТочкаНоды***##*@node Redirections*##Перевод#**@node Перенаправления**#
+СдржНд***##*@section Redirections*##Перевод#**@section Перенаправления**#
+***СсылкиНаНоду***
+##*(@pxref{Redirections})*##Перевод#**(@pxref{Перенаправления})**#
+##*@xref{Redirections}*##Перевод#**@xref{Перенаправления}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Quote Removal
+ТочкаНоды***##*@node Quote Removal*##Перевод#**@node Цитирование Удаления**#
+СдржНд***##*@subsection Quote Removal*##Перевод#**@subsection Цитирование Удаления**#
+***СсылкиНаНоду***
+##*(@pxref{Quote Removal})*##Перевод#**(@pxref{Цитирование Удаления})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Pattern Matching
+ТочкаНоды***##*@node Pattern Matching*##Перевод#**@node Шаблоны Соответствия**#
+СдржНд***##*@subsubsection Pattern Matching*##Перевод#**@subsubsection Шаблоны Соответствия**#
+***СсылкиНаНоду***
+##*(@pxref{Pattern Matching})*##Перевод#**(@pxref{Шаблоны Соответствия})**#
+##*@ref{Pattern Matching}*##Перевод#**@ref{Шаблоны Соответствия}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Filename Expansion
+ТочкаНоды***##*@node Filename Expansion*##Перевод#**@node Расширение Имени Файла**#
+СдржНд***##*@subsection Filename Expansion*##Перевод#**@subsection Расширение Имени Файла**#
+***СсылкиНаНоду***
+##*(@pxref{Filename Expansion})*##Перевод#**(@pxref{Расширение Имени Файла})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Word Splitting
+ТочкаНоды***##*@node Word Splitting*##Перевод#**@node Подстановка Слов**#
+СдржНд***##*@subsection Word Splitting*##Перевод#**@subsection Подстановка Слов**#
+***СсылкиНаНоду***
+##*@ref{Word Splitting}*##Перевод#**@ref{Подстановка Слов}**#
+##*(@pxref{Word Splitting})*##Перевод#**(@pxref{Подстановка Слов})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Process Substitution
+ТочкаНоды***##*@node Process Substitution*##Перевод#**@node Подстановка процессов**#
+СдржНд***##*@subsection Process Substitution*##Перевод#**@subsection Подстановка процессов**#
+***СсылкиНаНоду***
+##*(@pxref{Process Substitution})*##Перевод#**(@pxref{Подстановка процессов})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Arithmetic Expansion
+ТочкаНоды***##*@node Arithmetic Expansion*##Перевод#**@node Арифметические Выражения**#
+СдржНд***##*@subsection Arithmetic Expansion*##Перевод#**@subsection Арифметические Выражения**#
+***СсылкиНаНоду***
+##*(@pxref{Arithmetic Expansion})*##Перевод#**(@pxref{Арифметические Выражения})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Command Substitution
+ТочкаНоды***##*@node Command Substitution*##Перевод#**@node Подстановка команд**#
+СдржНд***##*@subsection Command Substitution*##Перевод#**@subsection Подстановка команд**#
+***СсылкиНаНоду***
+##*(@pxref{Command Substitution})*##Перевод#**(@pxref{Подстановка команд})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Parameter Expansion
+ТочкаНоды***##*@node Shell Parameter Expansion*##Перевод#**@node Shell Подстановка Значений Параметров**#
+СдржНд***##*@subsection Shell Parameter Expansion*##Перевод#**@subsection Shell Подстановка Значений Параметров**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Parameter Expansion})*##Перевод#**(@pxref{Shell Подстановка Значений Параметров})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Tilde Expansion
+ТочкаНоды***##*@node Tilde Expansion*##Перевод#**@node Подстановка Тильды**#
+СдржНд***##*@subsection Tilde Expansion*##Перевод#**@subsection Подстановка Тильды**#
+***СсылкиНаНоду***
+##*@ref{Tilde Expansion}*##Перевод#**@ref{Подстановка Тильды}**#
+##*(@pxref{Tilde Expansion})*##Перевод#**(@pxref{Подстановка Тильды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Brace Expansion
+ТочкаНоды***##*@node Brace Expansion*##Перевод#**@node Подстановка Выражениц В Скобках**#
+СдржНд***##*@subsection Brace Expansion*##Перевод#**@subsection Подстановка Выражениц В Скобках**#
+***СсылкиНаНоду***
+##*@ref{Brace Expansion}*##Перевод#**@ref{Подстановка Выражениц В Скобках}**#
+##*(@pxref{Brace Expansion})*##Перевод#**(@pxref{Подстановка Выражениц В Скобках})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Expansions
+ТочкаНоды***##*@node Shell Expansions*##Перевод#**@node Подстановка Shell**#
+СдржНд***##*@section Shell Expansions*##Перевод#**@section Подстановка Shell**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Expansions})*##Перевод#**(@pxref{Подстановка Shell})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Special Parameters
+ТочкаНоды***##*@node Special Parameters*##Перевод#**@node Специальные Параметры**#
+СдржНд***##*@subsection Special Parameters*##Перевод#**@subsection Специальные Параметры**#
+***СсылкиНаНоду***
+##*@xref{Special Parameters}*##Перевод#**@xref{Специальные Параметры}**#
+##*(@pxref{Special Parameters})*##Перевод#**(@pxref{Специальные Параметры})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Positional Parameters
+ТочкаНоды***##*@node Positional Parameters*##Перевод#**@node Позиционные Параметры**#
+СдржНд***##*@subsection Positional Parameters*##Перевод#**@subsection Позиционные Параметры**#
+***СсылкиНаНоду***
+##*(@pxref{Positional Parameters})*##Перевод#**(@pxref{Позиционные Параметры})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Parameters
+ТочкаНоды***##*@node Shell Parameters*##Перевод#**@node Параметры Shell**#
+СдржНд***##*@section Shell Parameters*##Перевод#**@section Параметры Shell**#
+***СсылкиНаНоду***
+##*@ref{Shell Parameters}*##Перевод#**@ref{Параметры Shell}**#
+##*(@pxref{Shell Parameters})*##Перевод#**(@pxref{Параметры Shell})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Functions
+ТочкаНоды***##*@node Shell Functions*##Перевод#**@node Функции Shell**#
+СдржНд***##*@section Shell Functions*##Перевод#**@section Функции Shell**#
+***СсылкиНаНоду***
+##*@ref{Shell Functions}*##Перевод#**@ref{Функции Shell}**#
+##*(@pxref{Shell Functions})*##Перевод#**(@pxref{Функции Shell})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***GNU Parallel
+ТочкаНоды***##*@node GNU Parallel*##Перевод#**@node GNU Асинхронное Выполнение**#
+СдржНд***##*@subsection GNU Parallel*##Перевод#**@subsection GNU Асинхронное Выполнение**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Coprocesses
+ТочкаНоды***##*@node Coprocesses*##Перевод#**@node Сопроцессы**#
+СдржНд***##*@subsection Coprocesses*##Перевод#**@subsection Сопроцессы**#
+***СсылкиНаНоду***
+##*(@pxref{Coprocesses})*##Перевод#**(@pxref{Сопроцессы})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Command Grouping
+ТочкаНоды***##*@node Command Grouping*##Перевод#**@node Группировка**#
+СдржНд***##*@subsubsection Grouping Commands*##Перевод#**@subsubsection Группировка**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Conditional Constructs
+ТочкаНоды***##*@node Conditional Constructs*##Перевод#**@node Конструкции Выбора**#
+СдржНд***##*@subsubsection Conditional Constructs*##Перевод#**@subsubsection Конструкции Выбора**#
+***СсылкиНаНоду***
+##*(@pxref{Conditional Constructs})*##Перевод#**(@pxref{Конструкции Выбора})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Looping Constructs
+ТочкаНоды***##*@node Looping Constructs*##Перевод#**@node Циклы**#
+СдржНд***##*@subsubsection Looping Constructs*##Перевод#**@subsubsection Циклы**#
+***СсылкиНаНоду***
+##*(@pxref{Looping Constructs})*##Перевод#**(@pxref{Циклы})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Compound Commands
+ТочкаНоды***##*@node Compound Commands*##Перевод#**@node Составные Команды**#
+СдржНд***##*@subsection Compound Commands*##Перевод#**@subsection Составные Команды**#
+***СсылкиНаНоду***
+##*(@pxref{Compound Commands})*##Перевод#**(@pxref{Составные Команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Lists
+ТочкаНоды***##*@node Lists*##Перевод#**@node Списки**#
+СдржНд***##*@subsection Lists of Commands*##Перевод#**@subsection Команды Для Работы Со Списками**#
+***СсылкиНаНоду***
+##*(@pxref{Lists})*##Перевод#**(@pxref{Списки})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Pipelines
+ТочкаНоды***##*@node Pipelines*##Перевод#**@node Конвееры**#
+СдржНд***##*@subsection Pipelines*##Перевод#**@subsection Конвееры**#
+***СсылкиНаНоду***
+##*(@pxref{Pipelines})*##Перевод#**(@pxref{Конвееры})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Simple Commands
+ТочкаНоды***##*@node Simple Commands*##Перевод#**@node Простые Команды**#
+СдржНд***##*@subsection Simple Commands*##Перевод#**@subsection Простые Команды**#
+***СсылкиНаНоду***
+##*(@pxref{Simple Commands})*##Перевод#**(@pxref{Простые Команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Commands
+ТочкаНоды***##*@node Shell Commands*##Перевод#**@node Shell Команды**#
+СдржНд***##*@section Shell Commands*##Перевод#**@section Shell Команды**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Commands})*##Перевод#**(@pxref{Shell Команды})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Comments
+ТочкаНоды***##*@node Comments*##Перевод#**@node Комментарии**#
+СдржНд***##*@subsection Comments*##Перевод#**@subsection Комментарии**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Locale Translation
+ТочкаНоды***##*@node Locale Translation*##Перевод#**@node Локализация**#
+СдржНд***##*@subsubsection Locale-Specific Translation*##Перевод#**@subsubsection Локализация**#
+***СсылкиНаНоду***
+##*(@pxref{Locale Translation})*##Перевод#**(@pxref{Локализация})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***ANSI-C Quoting
+ТочкаНоды***##*@node ANSI-C Quoting*##Перевод#**@node ANSI-C Кавычки**#
+СдржНд***##*@subsubsection ANSI-C Quoting*##Перевод#**@subsubsection ANSI-C Кавычки**#
+***СсылкиНаНоду***
+##*(@pxref{ANSI-C Quoting})*##Перевод#**(@pxref{ANSI-C Кавычки})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Double Quotes
+ТочкаНоды***##*@node Double Quotes*##Перевод#**@node Двойные Кавычки**#
+СдржНд***##*@subsubsection Double Quotes*##Перевод#**@subsubsection Двойные Кавычки**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Single Quotes
+ТочкаНоды***##*@node Single Quotes*##Перевод#**@node Одинарные Кавычки**#
+СдржНд***##*@subsubsection Single Quotes*##Перевод#**@subsubsection Одинарные Кавычки**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Escape Character
+ТочкаНоды***##*@node Escape Character*##Перевод#**@node Escape Последовательности**#
+СдржНд***##*@subsubsection Escape Character*##Перевод#**@subsubsection Escape Последовательности**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Quoting
+ТочкаНоды***##*@node Quoting*##Перевод#**@node Кавычки**#
+СдржНд***##*@subsection Quoting*##Перевод#**@subsection Кавычки**#
+***СсылкиНаНоду***
+##*@ref{Quoting}*##Перевод#**@ref{Кавычки}**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Operation
+ТочкаНоды***##*@node Shell Operation*##Перевод#**@node Операции Shell**#
+СдржНд***##*@subsection Shell Operation*##Перевод#**@subsection Операции Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Shell Syntax
+ТочкаНоды***##*@node Shell Syntax*##Перевод#**@node Синтаксис Shell**#
+СдржНд***##*@section Shell Syntax*##Перевод#**@section Синтаксис Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Basic Shell Features
+ТочкаНоды***##*@node Basic Shell Features*##Перевод#**@node Основные характеристики Shell**#
+СдржНд***##*@chapter Basic Shell Features*##Перевод#**@chapter Основные характеристики Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Definitions
+ТочкаНоды***##*@node Definitions*##Перевод#**@node Определения**#
+СдржНд***##*@chapter Definitions*##Перевод#**@chapter Определения**#
+***СсылкиНаНоду***
+##*(@pxref{Definitions})*##Перевод#**(@pxref{Определения})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***What is a shell?
+ТочкаНоды***##*@node What is a shell?*##Перевод#**@node Что такое командная оболочка?**#
+СдржНд***##*@section What is a shell?*##Перевод#**@section Что такое командная оболочка?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***What is Bash?
+ТочкаНоды***##*@node What is Bash?*##Перевод#**@node Что такое Bash?**#
+СдржНд***##*@section What is Bash?*##Перевод#**@section Что такое Bash?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Introduction
+ТочкаНоды***##*@node Introduction*##Перевод#**@node Руководство**#
+СдржНд***##*@chapter Introduction*##Перевод#**@chapter Руководство**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Top, Introduction, (dir), (dir)
+ТочкаНоды***##*@node Top, Introduction, (dir), (dir)*##Перевод#**@node Top**#
+СдржНд***##*@top Bash Features*##Перевод#**@top Bash Особенности**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***A Programmable Completion Example
+ТочкаНоды***##*@node A Programmable Completion Example*##Перевод#**@node Пример Программного дополнения**#
+СдржНд***##*@section A Programmable Completion Example*##Перевод#**@section Пример Программного дополнения**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Programmable Completion Builtins
+ТочкаНоды***##*@node Programmable Completion Builtins*##Перевод#**@node Программное Дополнение Для Встроенных Команд**#
+СдржНд***##*@section Programmable Completion Builtins*##Перевод#**@section Программное Дополнение Для Встроенных Команд**#
+***СсылкиНаНоду***
+##*(@pxref{Programmable Completion Builtins})*##Перевод#**(@pxref{Программное Дополнение Для Встроенных Команд})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Programmable Completion
+ТочкаНоды***##*@node Programmable Completion*##Перевод#**@node Программное Дополнение**#
+СдржНд***##*@section Programmable Completion*##Перевод#**@section Программное Дополнение**#
+***СсылкиНаНоду***
+##*(@pxref{Programmable Completion})*##Перевод#**(@pxref{Программное Дополнение})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline vi Mode
+ТочкаНоды***##*@node Readline vi Mode*##Перевод#**@node РедактированиеСтроки vi Режим**#
+СдржНд***##*@section Readline vi Mode*##Перевод#**@section РедактированиеСтроки vi Режим**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Miscellaneous Commands
+ТочкаНоды***##*@node Miscellaneous Commands*##Перевод#**@node Некоторые Другие Команды**#
+СдржНд***##*@subsection Some Miscellaneous Commands*##Перевод#**@subsection Некоторые Другие Команды**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Keyboard Macros
+ТочкаНоды***##*@node Keyboard Macros*##Перевод#**@node Клавиатурные Макросы**#
+СдржНд***##*@subsection Keyboard Macros*##Перевод#**@subsection Клавиатурные Макросы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Commands For Completion
+ТочкаНоды***##*@node Commands For Completion*##Перевод#**@node Команды Завершения**#
+СдржНд***##*@subsection Letting Readline Type For You*##Перевод#**@subsection Letting Readline Type For You**#
+***СсылкиНаНоду***
+##*(@pxref{Commands For Completion})*##Перевод#**(@pxref{Команды Завершения})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Numeric Arguments
+ТочкаНоды***##*@node Numeric Arguments*##Перевод#**@node Нумерованные Аргументы**#
+СдржНд***##*@subsection Specifying Numeric Arguments*##Перевод#**@subsection Специальные Нумерованные Аргументы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Commands For Killing
+ТочкаНоды***##*@node Commands For Killing*##Перевод#**@node Команды Для Удаления**#
+СдржНд***##*@subsection Killing And Yanking*##Перевод#**@subsection Удаление и Вставка**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Commands For Text
+ТочкаНоды***##*@node Commands For Text*##Перевод#**@node Команды для работы с текстом**#
+СдржНд***##*@subsection Commands For Changing Text*##Перевод#**@subsection Команды для работы с текстом**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Commands For History
+ТочкаНоды***##*@node Commands For History*##Перевод#**@node Команды Работы С Историей**#
+СдржНд***##*@subsection Commands For Manipulating The History*##Перевод#**@subsection Команды Работы С Историей**#
+***СсылкиНаНоду***
+##*(@pxref{Commands For History})*##Перевод#**(@pxref{Команды Работы С Историей})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Commands For Moving
+ТочкаНоды***##*@node Commands For Moving*##Перевод#**@node Команды Перемещения**#
+СдржНд***##*@subsection Commands For Moving*##Перевод#**@subsection Команды Перемещения**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bindable Readline Commands
+ТочкаНоды***##*@node Bindable Readline Commands*##Перевод#**@node Команды Readline Commands**#
+СдржНд***##*@section Bindable Readline Commands*##Перевод#**@section Команды Readline Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Bindable Readline Commands})*##Перевод#**(@pxref{Команды Readline Commands})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Sample Init File
+ТочкаНоды***##*@node Sample Init File*##Перевод#**@node Пример Файла Инициализации**#
+СдржНд***##*@subsection Sample Init File*##Перевод#**@subsection Пример Файла Инициализации**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Conditional Init Constructs
+ТочкаНоды***##*@node Conditional Init Constructs*##Перевод#**@node Условные Конструкции Инициализации**#
+СдржНд***##*@subsection Conditional Init Constructs*##Перевод#**@subsection Условные Конструкции Инициализации**#
+***СсылкиНаНоду***
+##*(@pxref{Conditional Init Constructs})*##Перевод#**(@pxref{Условные Конструкции Инициализации})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Init File Syntax
+ТочкаНоды***##*@node Readline Init File Syntax*##Перевод#**@node Readline Синтакс Файла Инициализации**#
+СдржНд***##*@subsection Readline Init File Syntax*##Перевод#**@subsection Readline Синтакс Файла Инициализации**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Init File
+ТочкаНоды***##*@node Readline Init File*##Перевод#**@node Readline Файл Инициализации**#
+СдржНд***##*@section Readline Init File*##Перевод#**@section Readline Файл Инициализации**#
+***СсылкиНаНоду***
+##*(@pxref{Readline Init File})*##Перевод#**(@pxref{Readline Файл Инициализации})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Searching
+ТочкаНоды***##*@node Searching*##Перевод#**@node Поиск**#
+СдржНд***##*@subsection Searching for Commands in the History*##Перевод#**@subsection Поиск Команд В Истории**#
+***СсылкиНаНоду***
+##*(@pxref{Searching})*##Перевод#**(@pxref{Поиск})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Arguments
+ТочкаНоды***##*@node Readline Arguments*##Перевод#**@node Readline Аргументы**#
+СдржНд***##*@subsection Readline Arguments*##Перевод#**@subsection Readline Аргументы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Killing Commands
+ТочкаНоды***##*@node Readline Killing Commands*##Перевод#**@node Readline Команды Удаления**#
+СдржНд***##*@subsection Readline Killing Commands*##Перевод#**@subsection Readline Команды Удаления**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Movement Commands
+ТочкаНоды***##*@node Readline Movement Commands*##Перевод#**@node Readline Перебор Команд**#
+СдржНд***##*@subsection Readline Movement Commands*##Перевод#**@subsection Readline Readline Перебор Команд**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Bare Essentials
+ТочкаНоды***##*@node Readline Bare Essentials*##Перевод#**@node Readline Основы**#
+СдржНд***##*@subsection Readline Bare Essentials*##Перевод#**@subsection Readline Readline Основы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Readline Interaction
+ТочкаНоды***##*@node Readline Interaction*##Перевод#**@node Интерактивная Командная Строка**#
+СдржНд***##*@section Readline Interaction*##Перевод#**@section Интерактивная Командная Строка**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Introduction and Notation
+ТочкаНоды***##*@node Introduction and Notation*##Перевод#**@node Инструкция И Нотация**#
+СдржНд***##*@section Introduction to Line Editing*##Перевод#**@section Инструкция И Нотация**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Command Line Editing
+ТочкаНоды***##*@node Command Line Editing*##Перевод#**@node Редакторы Командной Строки**#
+СдржНд***##*@chapter Command Line Editing*##Перевод#**@chapter Редакторы Командной Строки**#
+***СсылкиНаНоду***
+##*(@pxref{Command Line Editing})*##Перевод#**(@pxref{Редакторы Командной Строки})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Modifiers
+ТочкаНоды***##*@node Modifiers*##Перевод#**@node Модификаторы**#
+СдржНд***##*@subsection Modifiers*##Перевод#**@subsection Модификаторы**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Word Designators
+ТочкаНоды***##*@node Word Designators*##Перевод#**@node Выделение Слов**#
+СдржНд***##*@subsection Word Designators*##Перевод#**@subsection Выделение Слов**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***Event Designators
+ТочкаНоды***##*@node Event Designators*##Перевод#**@node Указатели Событий**#
+СдржНд***##*@subsection Event Designators*##Перевод#**@subsection Указатели Событий**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+ЯкорьНода***History Interaction
+ТочкаНоды***##*@node History Interaction*##Перевод#**@node История Команд Интерактивно**#
+СдржНд***##*@section History Expansion*##Перевод#**@section История Команд Интерактивно**#
+***СсылкиНаНоду***
+##*(@pxref{History Interaction})*##Перевод#**(@pxref{История Команд Интерактивно})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash History Builtins
+ТочкаНоды***##*@node Bash History Builtins*##Перевод#**@node Bash Встроенная История**#
+СдржНд***##*@section Bash History Builtins*##Перевод#**@section Bash Bash Встроенная История**#
+***СсылкиНаНоду***
+##*(@pxref{Bash History Builtins})*##Перевод#**(@pxref{Bash Встроенная История})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Bash History Facilities
+ТочкаНоды***##*@node Bash History Facilities*##Перевод#**@node Bash Устройство Истории**#
+СдржНд***##*@section Bash History Facilities*##Перевод#**@section Bash Устройство Истории**#
+***СсылкиНаНоду***
+##*@ref{Bash History Facilities}*##Перевод#**@ref{Bash Устройство Истории}**#
+##*@xref{Bash History Facilities}*##Перевод#**@xref{Bash Устройство Истории}**#
+##*(@pxref{Bash History Facilities})*##Перевод#**(@pxref{Bash Устройство Истории})**#
+***КонецСсылкиНаНоду***
+ЯкорьНода***Using History Interactively
+ТочкаНоды***##*@node Using History Interactively*##Перевод#**@node Использование Истории Интерактивно**#
+СдржНд***##*@chapter Using History Interactively*##Перевод#**@chapter Использование Истории Интерактивно**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***

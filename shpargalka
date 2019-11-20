@@ -1,0 +1,227 @@
+Эта страница является основным учебником списка типов данных в Emacs Lisp.
+Создать список
+
+Для того, чтобы создать список, написать это (list a b …).
+
+; присвоить список в переменную
+(setq myList (list 1 "b" 3))
+
+; напечатать список
+(message "%S" myList)
+
+Если вы не хотите оценить элементы,
+напишите это: '(a b …). Запись эквивалентна (quote (list a b …))
+
+; назначить список в переменную
+(setq myList '(a b c))
+
+; prints a list
+(message "%S" myList)
+
+;; create a list of values of variables
+(let ((x 3) (y 4) (z 5))
+  (message "%S" (list x y z))
+  ) ; prints "(3 4 5)"
+
+Create Number Sequence (Range)
+
+(number-sequence n m step) → returns a list of a range of numbers, from n to m, in increment of step.
+
+;; creating a range of numbers
+(number-sequence 5) ; (5)
+
+(number-sequence 2 9) ; (2 3 4 5 6 7 8 9)
+
+(number-sequence 0 9 3) ; (0 3 6 9)
+
+Length
+
+(length list) → return number of elements.
+
+(length '("a" "b" "c") ) ; 3
+
+Get Elements of a List
+
+List index count starts from 0.
+list element extraction functions Function	Purpose
+(car list)	first element
+(nth n list)	nth element
+(car (last list))	last element
+
+(car (list "a" "b" "c") )   ; "a"
+
+(nth 1 (list "a" "b" "c") ) ; "b"
+
+(car (last (list "a" "b" "c")) )   ; "c"
+
+sublist functions Function	Purpose
+(cdr list)	2nd to last elements.
+(nthcdr n list)	nth to last elements.
+(butlast list n)	without the last n elements.
+
+(cdr (list "a" "b" "c") )   ; ("b" "c")
+
+(butlast (list "a" "b" "c" "d") )   ; ("a" "b" "c")
+(butlast (list "a" "b" "c" "d") 2)   ; ("a" "b")
+
+Prepend to list
+Function	Purpose
+(cons x list)	Return a new list, with x added to front. (prepend)
+
+(cons "a" (list "c" "d") ) ; ("a" "c" "d")
+
+(cons (list "a" "b") (list "c" "d") ) ; (("a" "b") "c" "d")
+
+Append (join lists)
+Join List Function	Purpose
+(append list1 list2)	Return a new list, join two lists
+
+(equal
+ (list 1 2 3 4)
+ (append (list 1 2) (list 3 4))
+ )
+;; t
+
+Modify List Variable
+Functions that modify a list variable Function	Purpose
+(push list)	Add a element to the front variable. Returns the new list.
+(pop list)	Remove first element from the variable. Returns the removed element.
+(nbutlast list n)	Remove last n elements from the variable. Returns the new value of the variable.
+(setcar list x)	replaces the first element in list with x. Returns x.
+(setcdr list x)	replaces the rest of elements in list with x. Returns x.
+
+(let ((x '(1)))
+  (push 2 x)
+  (equal x '(2 1)) ; true
+  )
+
+(setq mylist '("a" "b" "c"))
+(pop mylist)   ; "a"
+(print mylist) ; ("b" "c")
+
+The weird names {car, cdr, cons} are like that for historical reasons.
+
+(info "(elisp) Lists")
+mapcar, mapc
+
+Here's a typical way of going thru a list. It is done with mapcar.
+
+(mapcar function sequence) → Apply function to each element of sequence, and make a list of the results. sequence may be a list, a vector, a bool-vector, or a string.
+
+; add one to each list member
+(mapcar '1+ (list 1 2 3 4)) ; (2 3 4 5)
+
+; take the 1st element of each
+(mapcar 'car '((1 2) (3 4) (5 6))) ; (1 3 5)
+
+Examples use user-defined function “lambda” created inline:
+
+; add one to each list member
+(mapcar
+ (lambda (x) (+ x 1))
+ (list 1 2 3 4)
+) ; (2 3 4 5)
+
+;; take the 2nd element of each
+(mapcar (lambda (x) (nth 1 x))
+        '((1 2) (3 4) (5 6))) ; (2 4 6)
+
+The lambda above means function. It let you define a function in the middle of your code. The form is (lambda (args) body). For example, (lambda (x y) (+ x y)) is a function that takes two arguments, x and y, and returns their sum.
+Loop thru List
+mapc
+
+mapc → like mapcar, but returns nil.
+
+;; apply a file processing function to a list of files
+(mapc 'my-update-html-footer
+      (list
+       "~/web/file1.html"
+       "~/web/file2.html"
+       "~/web/file3.html"
+       ))
+
+dotimes
+
+dotimes is useful when you want to go thru a list with a index.
+
+dotimes (var n) body → run body, with var set to 0 to n-1.
+
+dotimes (var n result) body → returns result.
+
+(setq mylist (make-list 8 0) ) ; creates '(0 0 0 0 0 0 0 0)
+
+(dotimes (i (length mylist))
+  (insert (number-to-string i))) ; inserts "01234567", returns nil
+
+using while
+
+Another common form to loop thru a list is using the while function. In each iteration, pop is used to reduce the list.
+
+(let ((myList '(a b c)))
+  (while myList
+    (message "%s" (pop myList))
+    (sleep-for 1)))
+
+List vs Vector
+
+Emacs Lisp: List vs Vector
+Association List (alist)
+
+Another important datatype similar to list ＆ vector is called Association List (aka alist). It is similar to Python Dictionary, Ruby Hash Table. See: (info "(elisp) Association Lists").
+
+For a example of using alist, see: Emacs Lisp: Batch Script to Validate Matching Brackets.
+
+(defun texinfo-show-structure (&optional nodes-too)
+  "Show the structure of a Texinfo file.
+Перечислите строки в файле, которые начинаются с @ -знаком команды для
+@chapter, @section, и тому подобное.
+
+С дополнительным аргументом (префикс, если интерактивный), список как строки с 
+командами @-sign для @chapter, @section, и т.п., а также список линий @node.
+
+Строки начинаются командами Структурирования, отображаются в буфере с 
+именем `*Occur*'. В этом буфере, вы можете перемещать точку на одну из этих 
+строк, а затем использовать \<occur-mode-map>\[occur-mode-goto-occurrence], 
+чтобы перейти к соответствующему месту в исходном файле Texinfo."
+
+  (interactive "P")
+  ;; Во-первых, помните текущее местоположение
+  (let (current-location)
+    (save-excursion
+      (end-of-line)            ; для того, чтобы найти раздел в текущей строке
+      (if (re-search-backward
+           ;; не требуется `texinfo-section-types-regexp' в texnfo-upd.el
+           "^@\\(chapter \\|sect\\|subs\\|subh\\|unnum\\|major\\|chapheading \\|heading \\|appendix\\)"
+           nil t)
+          (setq current-location
+                (progn
+                  (beginning-of-line)
+                  (buffer-substring (point) (progn (end-of-line) (point)))))
+        ;; иначе точка находится перед любой командой раздела.
+        (setq current-location "tex")))
+    ;; Во-вторых, создание и форматирование буфера *Occur*
+    (save-excursion
+      (goto-char (point-min))
+      (occur (concat "^\\(?:" (if nodes-too "@node\\>\\|")
+		     outline-regexp "\\)")))
+    (pop-to-buffer "*Occur*")
+    (goto-char (point-min))
+    (let ((inhibit-read-only t))
+      (flush-lines "-----")
+      ;; Теперь формат буфера "*Occur*", чтобы показать структуру.
+      ;; Thanks to ceder@signum.se (Per Cederqvist)
+      (goto-char (point-max))
+      (let (level)
+        (while (re-search-backward "^ *[0-9]*:@\\(\\sw+\\)" nil 0)
+          (goto-char (1- (match-beginning 1)))
+          (setq level
+                (or (cadr (assoc (match-string 1) texinfo-section-list)) 2))
+          (indent-to-column (+ (current-column) (* 4 (- level 2))))
+          (beginning-of-line))))
+    ;; В-третьих, перейти к строке, соответствующее местоположению в
+    ;; исходном файле потенциальной ошибки: два точно подобных
+    ;; `current-location' строк ...
+    (goto-char (point-min))
+    (re-search-forward current-location nil t)
+    (beginning-of-line)
+    ))

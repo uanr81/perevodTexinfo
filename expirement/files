@@ -1,0 +1,72 @@
+71 matches for "^@node .+\n.+$" in buffer: bash.texi
+     57:@node Top, Introduction, (dir), (dir)
+    103:@node Introduction
+    191:@node Definitions
+    334:@node Shell Syntax
+    398:@node Quoting
+    439:@node Single Quotes
+    474:@node ANSI-C Quoting
+    529:@node Locale Translation
+    555:@node Comments
+    570:@node Shell Commands
+    592:@node Simple Commands
+    607:@node Pipelines
+    738:@node Compound Commands
+    761:@node Looping Constructs
+    839:@node Conditional Constructs
+   1137:@node Command Grouping
+   1228:@node GNU Parallel
+   1349:@node Shell Functions
+   1632:@node Positional Parameters
+   1750:@node Shell Expansions
+   1810:@node Brace Expansion
+   1881:@node Tilde Expansion
+   1957:@node Shell Parameter Expansion
+   2341:@node Command Substitution
+   2380:@node Arithmetic Expansion
+   2439:@node Word Splitting
+   2483:@node Filename Expansion
+   2546:@node Pattern Matching
+   2654:@node Redirections
+   2946:@node Executing Commands
+   2963:@node Simple Command Expansion
+   3008:@node Command Search and Execution
+   3065:@node Command Execution Environment
+   3161:@node Environment
+   3237:@node Signals
+   3344:@node Shell Builtin Commands
+   3390:@node Bourne Shell Builtins
+   3948:@node Bash Builtins
+   4784:@node Modifying Shell Behavior
+   5509:@node Special Builtins
+   5552:@node Bourne Shell Variables
+   6389:@node Invoking Bash
+   6670:@node Interactive Shells
+   6681:@node What is an Interactive Shell?
+   6697:@node Is this Shell Interactive?
+   6724:@node Interactive Shell Behavior
+   6831:@node Bash Conditional Expressions
+   7315:@node Directory Stack Builtins
+   7407:@node Controlling the Prompt
+   7883:@node Job Control
+   7897:@node Job Control Basics
+   8007:@node Job Control Builtins
+   8154:@node Job Control Variables
+   8188:@node Installing Bash
+   8214:@node Basic Installation
+   8310:@node Compilers and Options
+   8332:@node Compiling For Multiple Architectures
+   8369:@node Installation Names
+   8386:@node Specifying the System Type
+   8401:@node Sharing Defaults
+   8414:@node Operation Controls
+   8448:@node Optional Features
+   8721:@node Reporting Bugs
+   8760:@node Major Differences From The Bourne Shell
+   9228:@node GNU Free Documentation License
+   9233:@node Indexes
+   9246:@node Builtin Index
+   9250:@node Reserved Word Index
+   9254:@node Variable Index
+   9258:@node Function Index
+   9262:@node Concept Index

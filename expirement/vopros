@@ -1,0 +1,18 @@
+Good afternoon. Explain why the last letter of the regular expression disappears. Below processed text
+
+the @option{-o history} option to the @code{set} builtin
+is enabled (@pxref{The Set Builtin}),
+the shell provides access to the @dfn{command history},
+the list of commands previously typed.
+
+further code
+
+(re-search-forward 
+		   "\\(?2:@xref{\\(?1:[^,}]+\\)[^}]+}\\)[.,]\\|\\(?2:@ref{\\(?1:[^,}]+\\)[^}]+}\\)[.,)]\\|\\(?2:(@pxref{\\(?1:[^,}]+\\)[^}]+})\\)\\|\\(?2:@inforef{\\(?1:[^,}]+\\)[^}]+}\\)[.,]" (point-max) t)
+
+(match-string-no-properties 1)
+"The Set Builti"
+(match-string-no-properties 0)
+"(@pxref{The Set Builtin})"
+
+it’s not clear to me why the last letter “n” of the “The Set Builti” substring does not fall into the subgroup with number 1. thank

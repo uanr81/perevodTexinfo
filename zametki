@@ -1,0 +1,16 @@
+;;;Получить строку в текущей точке
+(setq myLine
+      (buffer-substring-no-properties
+       (line-beginning-position)
+       (line-end-position)
+       ))
+;;;Перейти на последнюю строку
+(end-of-line)
+;;Добавить строку
+(open-line 1)
+
+(plist-get my-plist 'bar);возвращает значение свойства
+(plist-put my-plist 'foo 69);деструктивно меняет значение свойства
+(plist-member plist property);возвращает не nil если свойство property существует
+
+(keywordp nil)

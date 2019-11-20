@@ -1,0 +1,875 @@
+
+ЯкорьНода***Concept Index*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Concept Index*##Перевод#**@node Concept Index**#
+СдржНд***##*@appendixsec Concept Index*##Перевод#**@appendixsec Concept Index**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Concept Index_#_***
+ЯкорьНода***Function Index*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Function Index*##Перевод#**@node Function Index**#
+СдржНд***##*@appendixsec Function Index*##Перевод#**@appendixsec Function Index**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Function Index_#_***
+ЯкорьНода***Variable Index*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Variable Index*##Перевод#**@node Variable Index**#
+СдржНд***##*@appendixsec Parameter and Variable Index*##Перевод#**@appendixsec Parameter and Variable Index**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Variable Index_#_***
+ЯкорьНода***Reserved Word Index*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Reserved Word Index*##Перевод#**@node Reserved Word Index**#
+СдржНд***##*@appendixsec Index of Shell Reserved Words*##Перевод#**@appendixsec Index of Shell Reserved Words**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Reserved Word Index_#_***
+ЯкорьНода***Builtin Index*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Builtin Index*##Перевод#**@node Builtin Index**#
+СдржНд***##*@appendixsec Index of Shell Builtin Commands*##Перевод#**@appendixsec Index of Shell Builtin Commands**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Builtin Index_#_***
+ЯкорьНода***Indexes*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Indexes*##Перевод#**@node Indexes**#
+СдржНд***##*@appendix Indexes*##Перевод#**@appendix Indexes**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Indexes_#_***
+ЯкорьНода***GNU Free Documentation License*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node GNU Free Documentation License*##Перевод#**@node GNU Free Documentation License**#
+СдржНд***##*@appendix GNU Free Documentation License*##Перевод#**@appendix GNU Free Documentation License**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_GNU Free Documentation License_#_***
+ЯкорьНода***Major Differences From The Bourne Shell*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Major Differences From The Bourne Shell*##Перевод#**@node Major Differences From The Bourne Shell**#
+СдржНд***##*@appendix Major Differences From The Bourne Shell*##Перевод#**@appendix Major Differences From The Bourne Shell**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Major Differences From The Bourne Shell_#_***
+ЯкорьНода***Reporting Bugs*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Reporting Bugs*##Перевод#**@node Reporting Bugs**#
+СдржНд***##*@appendix Reporting Bugs*##Перевод#**@appendix Reporting Bugs**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Reporting Bugs_#_***
+ЯкорьНода***Optional Features*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Optional Features*##Перевод#**@node Optional Features**#
+СдржНд***##*@section Optional Features*##Перевод#**@section Optional Features**#
+***СсылкиНаНоду***
+##*(@pxref{Optional Features})*##Перевод**#(@pxref{Optional Features})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Optional Features_#_***
+ЯкорьНода***Operation Controls*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Operation Controls*##Перевод#**@node Operation Controls**#
+СдржНд***##*@section Operation Controls*##Перевод#**@section Operation Controls**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Operation Controls_#_***
+ЯкорьНода***Sharing Defaults*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Sharing Defaults*##Перевод#**@node Sharing Defaults**#
+СдржНд***##*@section Sharing Defaults*##Перевод#**@section Sharing Defaults**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Sharing Defaults_#_***
+ЯкорьНода***Specifying the System Type*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Specifying the System Type*##Перевод#**@node Specifying the System Type**#
+СдржНд***##*@section Specifying the System Type*##Перевод#**@section Specifying the System Type**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Specifying the System Type_#_***
+ЯкорьНода***Installation Names*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Installation Names*##Перевод#**@node Installation Names**#
+СдржНд***##*@section Installation Names*##Перевод#**@section Installation Names**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Installation Names_#_***
+ЯкорьНода***Compiling For Multiple Architectures*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Compiling For Multiple Architectures*##Перевод#**@node Compiling For Multiple Architectures**#
+СдржНд***##*@section Compiling For Multiple Architectures*##Перевод#**@section Compiling For Multiple Architectures**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Compiling For Multiple Architectures_#_***
+ЯкорьНода***Compilers and Options*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Compilers and Options*##Перевод#**@node Compilers and Options**#
+СдржНд***##*@section Compilers and Options*##Перевод#**@section Compilers and Options**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Compilers and Options_#_***
+ЯкорьНода***Basic Installation*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Basic Installation*##Перевод#**@node Basic Installation**#
+СдржНд***##*@section Basic Installation*##Перевод#**@section Basic Installation**#
+***СсылкиНаНоду***
+##*(@pxref{Basic Installation})*##Перевод**#(@pxref{Basic Installation})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Basic Installation_#_***
+ЯкорьНода***Installing Bash*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Installing Bash*##Перевод#**@node Installing Bash**#
+СдржНд***##*@chapter Installing Bash*##Перевод#**@chapter Installing Bash**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Installing Bash_#_***
+ЯкорьНода***Job Control Variables*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Job Control Variables*##Перевод#**@node Job Control Variables**#
+СдржНд***##*@section Job Control Variables*##Перевод#**@section Job Control Variables**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Variables})*##Перевод**#(@pxref{Job Control Variables})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Job Control Variables_#_***
+ЯкорьНода***Job Control Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Job Control Builtins*##Перевод#**@node Job Control Builtins**#
+СдржНд***##*@section Job Control Builtins*##Перевод#**@section Job Control Builtins**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Builtins})*##Перевод**#(@pxref{Job Control Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Job Control Builtins_#_***
+ЯкорьНода***Job Control Basics*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Job Control Basics*##Перевод#**@node Job Control Basics**#
+СдржНд***##*@section Job Control Basics*##Перевод#**@section Job Control Basics**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control Basics})*##Перевод**#(@pxref{Job Control Basics})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Job Control Basics_#_***
+ЯкорьНода***Job Control*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Job Control*##Перевод#**@node Job Control**#
+СдржНд***##*@chapter Job Control*##Перевод#**@chapter Job Control**#
+***СсылкиНаНоду***
+##*(@pxref{Job Control})*##Перевод**#(@pxref{Job Control})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Job Control_#_***
+ЯкорьНода***Bash POSIX Mode*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash POSIX Mode*##Перевод#**@node Bash POSIX Mode**#
+СдржНд***##*@section Bash POSIX Mode*##Перевод#**@section Bash POSIX Mode**#
+***СсылкиНаНоду***
+##*@xref{Bash POSIX Mode}*##Перевод**#@xref{Bash POSIX Mode}#**
+##*@ref{Bash POSIX Mode}*##Перевод**#@ref{Bash POSIX Mode}#**
+##*(@pxref{Bash POSIX Mode})*##Перевод**#(@pxref{Bash POSIX Mode})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash POSIX Mode_#_***
+ЯкорьНода***The Restricted Shell*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node The Restricted Shell*##Перевод#**@node The Restricted Shell**#
+СдржНд***##*@section The Restricted Shell*##Перевод#**@section The Restricted Shell**#
+***СсылкиНаНоду***
+##*@ref{The Restricted Shell}*##Перевод**#@ref{The Restricted Shell}#**
+##*(@pxref{The Restricted Shell})*##Перевод**#(@pxref{The Restricted Shell})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_The Restricted Shell_#_***
+ЯкорьНода***Controlling the Prompt*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Controlling the Prompt*##Перевод#**@node Controlling the Prompt**#
+СдржНд***##*@section Controlling the Prompt*##Перевод#**@section Controlling the Prompt**#
+***СсылкиНаНоду***
+##*@ref{Controlling the Prompt}*##Перевод**#@ref{Controlling the Prompt}#**
+##*@xref{Controlling the Prompt}*##Перевод**#@xref{Controlling the Prompt}#**
+##*(@pxref{Controlling the Prompt})*##Перевод**#(@pxref{Controlling the Prompt})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Controlling the Prompt_#_***
+ЯкорьНода***Directory Stack Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Directory Stack Builtins*##Перевод#**@node Directory Stack Builtins**#
+СдржНд***##*@subsection Directory Stack Builtins*##Перевод#**@subsection Directory Stack Builtins**#
+***СсылкиНаНоду***
+##*(@pxref{Directory Stack Builtins})*##Перевод**#(@pxref{Directory Stack Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Directory Stack Builtins_#_***
+ЯкорьНода***The Directory Stack*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node The Directory Stack*##Перевод#**@node The Directory Stack**#
+СдржНд***##*@section The Directory Stack*##Перевод#**@section The Directory Stack**#
+***СсылкиНаНоду***
+##*(@pxref{The Directory Stack})*##Перевод**#(@pxref{The Directory Stack})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_The Directory Stack_#_***
+ЯкорьНода***Arrays*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Arrays*##Перевод#**@node Arrays**#
+СдржНд***##*@section Arrays*##Перевод#**@section Arrays**#
+***СсылкиНаНоду***
+##*(@pxref{Arrays})*##Перевод**#(@pxref{Arrays})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Arrays_#_***
+ЯкорьНода***Aliases*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Aliases*##Перевод#**@node Aliases**#
+СдржНд***##*@section Aliases*##Перевод#**@section Aliases**#
+***СсылкиНаНоду***
+##*@ref{Aliases}*##Перевод**#@ref{Aliases}#**
+##*(@pxref{Aliases})*##Перевод**#(@pxref{Aliases})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Aliases_#_***
+ЯкорьНода***Shell Arithmetic*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Arithmetic*##Перевод#**@node Shell Arithmetic**#
+СдржНд***##*@section Shell Arithmetic*##Перевод#**@section Shell Arithmetic**#
+***СсылкиНаНоду***
+##*@ref{Shell Arithmetic}*##Перевод**#@ref{Shell Arithmetic}#**
+##*(@pxref{Shell Arithmetic})*##Перевод**#(@pxref{Shell Arithmetic})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Arithmetic_#_***
+ЯкорьНода***Bash Conditional Expressions*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash Conditional Expressions*##Перевод#**@node Bash Conditional Expressions**#
+СдржНд***##*@section Bash Conditional Expressions*##Перевод#**@section Bash Conditional Expressions**#
+***СсылкиНаНоду***
+##*(@pxref{Bash Conditional Expressions})*##Перевод**#(@pxref{Bash Conditional Expressions})#**
+##*@ref{Bash Conditional Expressions}*##Перевод**#@ref{Bash Conditional Expressions}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash Conditional Expressions_#_***
+ЯкорьНода***Interactive Shell Behavior*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Interactive Shell Behavior*##Перевод#**@node Interactive Shell Behavior**#
+СдржНд***##*@subsection Interactive Shell Behavior*##Перевод#**@subsection Interactive Shell Behavior**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Interactive Shell Behavior_#_***
+ЯкорьНода***Is this Shell Interactive?*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Is this Shell Interactive?*##Перевод#**@node Is this Shell Interactive?**#
+СдржНд***##*@subsection Is this Shell Interactive?*##Перевод#**@subsection Is this Shell Interactive?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Is this Shell Interactive?_#_***
+ЯкорьНода***What is an Interactive Shell?*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node What is an Interactive Shell?*##Перевод#**@node What is an Interactive Shell?**#
+СдржНд***##*@subsection What is an Interactive Shell?*##Перевод#**@subsection What is an Interactive Shell?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_What is an Interactive Shell?_#_***
+ЯкорьНода***Interactive Shells*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Interactive Shells*##Перевод#**@node Interactive Shells**#
+СдржНд***##*@section Interactive Shells*##Перевод#**@section Interactive Shells**#
+***СсылкиНаНоду***
+##*@ref{Interactive Shells}*##Перевод**#@ref{Interactive Shells}#**
+##*@xref{Interactive Shells}*##Перевод**#@xref{Interactive Shells}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Interactive Shells_#_***
+ЯкорьНода***Bash Startup Files*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash Startup Files*##Перевод#**@node Bash Startup Files**#
+СдржНд***##*@section Bash Startup Files*##Перевод#**@section Bash Startup Files**#
+***СсылкиНаНоду***
+##*@ref{Bash Startup Files}*##Перевод**#@ref{Bash Startup Files}#**
+##*@xref{Bash Startup Files}*##Перевод**#@xref{Bash Startup Files}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash Startup Files_#_***
+ЯкорьНода***Invoking Bash*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Invoking Bash*##Перевод#**@node Invoking Bash**#
+СдржНд***##*@section Invoking Bash*##Перевод#**@section Invoking Bash**#
+***СсылкиНаНоду***
+##*(@pxref{Invoking Bash})*##Перевод**#(@pxref{Invoking Bash})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Invoking Bash_#_***
+ЯкорьНода***Bash Features*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash Features*##Перевод#**@node Bash Features**#
+СдржНд***##*@chapter Bash Features*##Перевод#**@chapter Bash Features**#
+***СсылкиНаНоду***
+##*@ref{Bash Features}*##Перевод**#@ref{Bash Features}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash Features_#_***
+ЯкорьНода***Bash Variables*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash Variables*##Перевод#**@node Bash Variables**#
+СдржНд***##*@section Bash Variables*##Перевод#**@section Bash Variables**#
+***СсылкиНаНоду***
+##*@xref{Bash Variables}*##Перевод**#@xref{Bash Variables}#**
+##*(@pxref{Bash Variables})*##Перевод**#(@pxref{Bash Variables})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash Variables_#_***
+ЯкорьНода***Bourne Shell Variables*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bourne Shell Variables*##Перевод#**@node Bourne Shell Variables**#
+СдржНд***##*@section Bourne Shell Variables*##Перевод#**@section Bourne Shell Variables**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bourne Shell Variables_#_***
+ЯкорьНода***Shell Variables*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Variables*##Перевод#**@node Shell Variables**#
+СдржНд***##*@chapter Shell Variables*##Перевод#**@chapter Shell Variables**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Variables_#_***
+ЯкорьНода***Special Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Special Builtins*##Перевод#**@node Special Builtins**#
+СдржНд***##*@section Special Builtins*##Перевод#**@section Special Builtins**#
+***СсылкиНаНоду***
+##*(@pxref{Special Builtins})*##Перевод**#(@pxref{Special Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Special Builtins_#_***
+ЯкорьНода***The Shopt Builtin*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node The Shopt Builtin*##Перевод#**@node The Shopt Builtin**#
+СдржНд***##*@subsection The Shopt Builtin*##Перевод#**@subsection The Shopt Builtin**#
+***СсылкиНаНоду***
+##*@ref{The Shopt Builtin}*##Перевод**#@ref{The Shopt Builtin}#**
+##*(@pxref{The Shopt Builtin})*##Перевод**#(@pxref{The Shopt Builtin})#**
+##*@xref{The Shopt Builtin}*##Перевод**#@xref{The Shopt Builtin}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_The Shopt Builtin_#_***
+ЯкорьНода***The Set Builtin*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node The Set Builtin*##Перевод#**@node The Set Builtin**#
+СдржНд***##*@subsection The Set Builtin*##Перевод#**@subsection The Set Builtin**#
+***СсылкиНаНоду***
+##*(@pxref{The Set Builtin})*##Перевод**#(@pxref{The Set Builtin})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_The Set Builtin_#_***
+ЯкорьНода***Modifying Shell Behavior*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Modifying Shell Behavior*##Перевод#**@node Modifying Shell Behavior**#
+СдржНд***##*@section Modifying Shell Behavior*##Перевод#**@section Modifying Shell Behavior**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Modifying Shell Behavior_#_***
+ЯкорьНода***Bash Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bash Builtins*##Перевод#**@node Bash Builtins**#
+СдржНд***##*@section Bash Builtin Commands*##Перевод#**@section Bash Builtin Commands**#
+***СсылкиНаНоду***
+##*@ref{Bash Builtins}*##Перевод**#@ref{Bash Builtins}#**
+##*@xref{Bash Builtins}*##Перевод**#@xref{Bash Builtins}#**
+##*(@pxref{Bash Builtins})*##Перевод**#(@pxref{Bash Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash Builtins_#_***
+ЯкорьНода***Bourne Shell Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Bourne Shell Builtins*##Перевод#**@node Bourne Shell Builtins**#
+СдржНд***##*@section Bourne Shell Builtins*##Перевод#**@section Bourne Shell Builtins**#
+***СсылкиНаНоду***
+##*@ref{Bourne Shell Builtins}*##Перевод**#@ref{Bourne Shell Builtins}#**
+##*@xref{Bourne Shell Builtins}*##Перевод**#@xref{Bourne Shell Builtins}#**
+##*(@pxref{Bourne Shell Builtins})*##Перевод**#(@pxref{Bourne Shell Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bourne Shell Builtins_#_***
+ЯкорьНода***Shell Builtin Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Builtin Commands*##Перевод#**@node Shell Builtin Commands**#
+СдржНд***##*@chapter Shell Builtin Commands*##Перевод#**@chapter Shell Builtin Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Builtin Commands})*##Перевод**#(@pxref{Shell Builtin Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Builtin Commands_#_***
+ЯкорьНода***Shell Scripts*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Scripts*##Перевод#**@node Shell Scripts**#
+СдржНд***##*@section Shell Scripts*##Перевод#**@section Shell Scripts**#
+***СсылкиНаНоду***
+##*@ref{Shell Scripts}*##Перевод**#@ref{Shell Scripts}#**
+##*(@pxref{Shell Scripts})*##Перевод**#(@pxref{Shell Scripts})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Scripts_#_***
+ЯкорьНода***Signals*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Signals*##Перевод#**@node Signals**#
+СдржНд***##*@subsection Signals*##Перевод#**@subsection Signals**#
+***СсылкиНаНоду***
+##*(@pxref{Signals})*##Перевод**#(@pxref{Signals})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Signals_#_***
+ЯкорьНода***Exit Status*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Exit Status*##Перевод#**@node Exit Status**#
+СдржНд***##*@subsection Exit Status*##Перевод#**@subsection Exit Status**#
+***СсылкиНаНоду***
+##*(@pxref{Exit Status})*##Перевод**#(@pxref{Exit Status})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Exit Status_#_***
+ЯкорьНода***Environment*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Environment*##Перевод#**@node Environment**#
+СдржНд***##*@subsection Environment*##Перевод#**@subsection Environment**#
+***СсылкиНаНоду***
+##*(@pxref{Environment})*##Перевод**#(@pxref{Environment})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Environment_#_***
+ЯкорьНода***Command Execution Environment*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Command Execution Environment*##Перевод#**@node Command Execution Environment**#
+СдржНд***##*@subsection Command Execution Environment*##Перевод#**@subsection Command Execution Environment**#
+***СсылкиНаНоду***
+##*(@pxref{Command Execution Environment})*##Перевод**#(@pxref{Command Execution Environment})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Command Execution Environment_#_***
+ЯкорьНода***Command Search and Execution*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Command Search and Execution*##Перевод#**@node Command Search and Execution**#
+СдржНд***##*@subsection Command Search and Execution*##Перевод#**@subsection Command Search and Execution**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Command Search and Execution_#_***
+ЯкорьНода***Simple Command Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Simple Command Expansion*##Перевод#**@node Simple Command Expansion**#
+СдржНд***##*@subsection Simple Command Expansion*##Перевод#**@subsection Simple Command Expansion**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Simple Command Expansion_#_***
+ЯкорьНода***Executing Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Executing Commands*##Перевод#**@node Executing Commands**#
+СдржНд***##*@section Executing Commands*##Перевод#**@section Executing Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Executing Commands})*##Перевод**#(@pxref{Executing Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Executing Commands_#_***
+ЯкорьНода***Redirections*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Redirections*##Перевод#**@node Redirections**#
+СдржНд***##*@section Redirections*##Перевод#**@section Redirections**#
+***СсылкиНаНоду***
+##*(@pxref{Redirections})*##Перевод**#(@pxref{Redirections})#**
+##*@xref{Redirections}*##Перевод**#@xref{Redirections}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Redirections_#_***
+ЯкорьНода***Quote Removal*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Quote Removal*##Перевод#**@node Quote Removal**#
+СдржНд***##*@subsection Quote Removal*##Перевод#**@subsection Quote Removal**#
+***СсылкиНаНоду***
+##*(@pxref{Quote Removal})*##Перевод**#(@pxref{Quote Removal})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Quote Removal_#_***
+ЯкорьНода***Pattern Matching*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Pattern Matching*##Перевод#**@node Pattern Matching**#
+СдржНд***##*@subsubsection Pattern Matching*##Перевод#**@subsubsection Pattern Matching**#
+***СсылкиНаНоду***
+##*(@pxref{Pattern Matching})*##Перевод**#(@pxref{Pattern Matching})#**
+##*@ref{Pattern Matching}*##Перевод**#@ref{Pattern Matching}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Pattern Matching_#_***
+ЯкорьНода***Filename Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Filename Expansion*##Перевод#**@node Filename Expansion**#
+СдржНд***##*@subsection Filename Expansion*##Перевод#**@subsection Filename Expansion**#
+***СсылкиНаНоду***
+##*(@pxref{Filename Expansion})*##Перевод**#(@pxref{Filename Expansion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Filename Expansion_#_***
+ЯкорьНода***Word Splitting*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Word Splitting*##Перевод#**@node Word Splitting**#
+СдржНд***##*@subsection Word Splitting*##Перевод#**@subsection Word Splitting**#
+***СсылкиНаНоду***
+##*@ref{Word Splitting}*##Перевод**#@ref{Word Splitting}#**
+##*(@pxref{Word Splitting})*##Перевод**#(@pxref{Word Splitting})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Word Splitting_#_***
+ЯкорьНода***Process Substitution*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Process Substitution*##Перевод#**@node Process Substitution**#
+СдржНд***##*@subsection Process Substitution*##Перевод#**@subsection Process Substitution**#
+***СсылкиНаНоду***
+##*(@pxref{Process Substitution})*##Перевод**#(@pxref{Process Substitution})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Process Substitution_#_***
+ЯкорьНода***Arithmetic Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Arithmetic Expansion*##Перевод#**@node Arithmetic Expansion**#
+СдржНд***##*@subsection Arithmetic Expansion*##Перевод#**@subsection Arithmetic Expansion**#
+***СсылкиНаНоду***
+##*(@pxref{Arithmetic Expansion})*##Перевод**#(@pxref{Arithmetic Expansion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Arithmetic Expansion_#_***
+ЯкорьНода***Command Substitution*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Command Substitution*##Перевод#**@node Command Substitution**#
+СдржНд***##*@subsection Command Substitution*##Перевод#**@subsection Command Substitution**#
+***СсылкиНаНоду***
+##*(@pxref{Command Substitution})*##Перевод**#(@pxref{Command Substitution})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Command Substitution_#_***
+ЯкорьНода***Shell Parameter Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Parameter Expansion*##Перевод#**@node Shell Parameter Expansion**#
+СдржНд***##*@subsection Shell Parameter Expansion*##Перевод#**@subsection Shell Parameter Expansion**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Parameter Expansion})*##Перевод**#(@pxref{Shell Parameter Expansion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Parameter Expansion_#_***
+ЯкорьНода***Tilde Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Tilde Expansion*##Перевод#**@node Tilde Expansion**#
+СдржНд***##*@subsection Tilde Expansion*##Перевод#**@subsection Tilde Expansion**#
+***СсылкиНаНоду***
+##*@ref{Tilde Expansion}*##Перевод**#@ref{Tilde Expansion}#**
+##*(@pxref{Tilde Expansion})*##Перевод**#(@pxref{Tilde Expansion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Tilde Expansion_#_***
+ЯкорьНода***Brace Expansion*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Brace Expansion*##Перевод#**@node Brace Expansion**#
+СдржНд***##*@subsection Brace Expansion*##Перевод#**@subsection Brace Expansion**#
+***СсылкиНаНоду***
+##*@ref{Brace Expansion}*##Перевод**#@ref{Brace Expansion}#**
+##*(@pxref{Brace Expansion})*##Перевод**#(@pxref{Brace Expansion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Brace Expansion_#_***
+ЯкорьНода***Shell Expansions*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Expansions*##Перевод#**@node Shell Expansions**#
+СдржНд***##*@section Shell Expansions*##Перевод#**@section Shell Expansions**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Expansions})*##Перевод**#(@pxref{Shell Expansions})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Expansions_#_***
+ЯкорьНода***Special Parameters*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Special Parameters*##Перевод#**@node Special Parameters**#
+СдржНд***##*@subsection Special Parameters*##Перевод#**@subsection Special Parameters**#
+***СсылкиНаНоду***
+##*@xref{Special Parameters}*##Перевод**#@xref{Special Parameters}#**
+##*(@pxref{Special Parameters})*##Перевод**#(@pxref{Special Parameters})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Special Parameters_#_***
+ЯкорьНода***Positional Parameters*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Positional Parameters*##Перевод#**@node Positional Parameters**#
+СдржНд***##*@subsection Positional Parameters*##Перевод#**@subsection Positional Parameters**#
+***СсылкиНаНоду***
+##*(@pxref{Positional Parameters})*##Перевод**#(@pxref{Positional Parameters})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Positional Parameters_#_***
+ЯкорьНода***Shell Parameters*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Parameters*##Перевод#**@node Shell Parameters**#
+СдржНд***##*@section Shell Parameters*##Перевод#**@section Shell Parameters**#
+***СсылкиНаНоду***
+##*@ref{Shell Parameters}*##Перевод**#@ref{Shell Parameters}#**
+##*(@pxref{Shell Parameters})*##Перевод**#(@pxref{Shell Parameters})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Parameters_#_***
+ЯкорьНода***Shell Functions*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Functions*##Перевод#**@node Shell Functions**#
+СдржНд***##*@section Shell Functions*##Перевод#**@section Shell Functions**#
+***СсылкиНаНоду***
+##*@ref{Shell Functions}*##Перевод**#@ref{Shell Functions}#**
+##*(@pxref{Shell Functions})*##Перевод**#(@pxref{Shell Functions})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Functions_#_***
+ЯкорьНода***GNU Parallel*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node GNU Parallel*##Перевод#**@node GNU Parallel**#
+СдржНд***##*@subsection GNU Parallel*##Перевод#**@subsection GNU Parallel**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_GNU Parallel_#_***
+ЯкорьНода***Coprocesses*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Coprocesses*##Перевод#**@node Coprocesses**#
+СдржНд***##*@subsection Coprocesses*##Перевод#**@subsection Coprocesses**#
+***СсылкиНаНоду***
+##*(@pxref{Coprocesses})*##Перевод**#(@pxref{Coprocesses})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Coprocesses_#_***
+ЯкорьНода***Command Grouping*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Command Grouping*##Перевод#**@node Command Grouping**#
+СдржНд***##*@subsubsection Grouping Commands*##Перевод#**@subsubsection Grouping Commands**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Command Grouping_#_***
+ЯкорьНода***Conditional Constructs*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Conditional Constructs*##Перевод#**@node Conditional Constructs**#
+СдржНд***##*@subsubsection Conditional Constructs*##Перевод#**@subsubsection Conditional Constructs**#
+***СсылкиНаНоду***
+##*(@pxref{Conditional Constructs})*##Перевод**#(@pxref{Conditional Constructs})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Conditional Constructs_#_***
+ЯкорьНода***Looping Constructs*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Looping Constructs*##Перевод#**@node Looping Constructs**#
+СдржНд***##*@subsubsection Looping Constructs*##Перевод#**@subsubsection Looping Constructs**#
+***СсылкиНаНоду***
+##*(@pxref{Looping Constructs})*##Перевод**#(@pxref{Looping Constructs})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Looping Constructs_#_***
+ЯкорьНода***Compound Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Compound Commands*##Перевод#**@node Compound Commands**#
+СдржНд***##*@subsection Compound Commands*##Перевод#**@subsection Compound Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Compound Commands})*##Перевод**#(@pxref{Compound Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Compound Commands_#_***
+ЯкорьНода***Lists*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Lists*##Перевод#**@node Lists**#
+СдржНд***##*@subsection Lists of Commands*##Перевод#**@subsection Lists of Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Lists})*##Перевод**#(@pxref{Lists})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Lists_#_***
+ЯкорьНода***Pipelines*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Pipelines*##Перевод#**@node Pipelines**#
+СдржНд***##*@subsection Pipelines*##Перевод#**@subsection Pipelines**#
+***СсылкиНаНоду***
+##*(@pxref{Pipelines})*##Перевод**#(@pxref{Pipelines})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Pipelines_#_***
+ЯкорьНода***Simple Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Simple Commands*##Перевод#**@node Simple Commands**#
+СдржНд***##*@subsection Simple Commands*##Перевод#**@subsection Simple Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Simple Commands})*##Перевод**#(@pxref{Simple Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Simple Commands_#_***
+ЯкорьНода***Shell Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Commands*##Перевод#**@node Shell Commands**#
+СдржНд***##*@section Shell Commands*##Перевод#**@section Shell Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Shell Commands})*##Перевод**#(@pxref{Shell Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Commands_#_***
+ЯкорьНода***Comments*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Comments*##Перевод#**@node Comments**#
+СдржНд***##*@subsection Comments*##Перевод#**@subsection Comments**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Comments_#_***
+ЯкорьНода***Locale Translation*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Locale Translation*##Перевод#**@node Locale Translation**#
+СдржНд***##*@subsubsection Locale-Specific Translation*##Перевод#**@subsubsection Locale-Specific Translation**#
+***СсылкиНаНоду***
+##*(@pxref{Locale Translation})*##Перевод**#(@pxref{Locale Translation})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Locale Translation_#_***
+ЯкорьНода***ANSI-C Quoting*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node ANSI-C Quoting*##Перевод#**@node ANSI-C Quoting**#
+СдржНд***##*@subsubsection ANSI-C Quoting*##Перевод#**@subsubsection ANSI-C Quoting**#
+***СсылкиНаНоду***
+##*(@pxref{ANSI-C Quoting})*##Перевод**#(@pxref{ANSI-C Quoting})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_ANSI-C Quoting_#_***
+ЯкорьНода***Double Quotes*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Double Quotes*##Перевод#**@node Double Quotes**#
+СдржНд***##*@subsubsection Double Quotes*##Перевод#**@subsubsection Double Quotes**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Double Quotes_#_***
+ЯкорьНода***Single Quotes*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Single Quotes*##Перевод#**@node Single Quotes**#
+СдржНд***##*@subsubsection Single Quotes*##Перевод#**@subsubsection Single Quotes**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Single Quotes_#_***
+ЯкорьНода***Escape Character*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Escape Character*##Перевод#**@node Escape Character**#
+СдржНд***##*@subsubsection Escape Character*##Перевод#**@subsubsection Escape Character**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Escape Character_#_***
+ЯкорьНода***Quoting*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Quoting*##Перевод#**@node Quoting**#
+СдржНд***##*@subsection Quoting*##Перевод#**@subsection Quoting**#
+***СсылкиНаНоду***
+##*@ref{Quoting}*##Перевод**#@ref{Quoting}#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Quoting_#_***
+ЯкорьНода***Shell Operation*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Operation*##Перевод#**@node Shell Operation**#
+СдржНд***##*@subsection Shell Operation*##Перевод#**@subsection Shell Operation**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Operation_#_***
+ЯкорьНода***Shell Syntax*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Shell Syntax*##Перевод#**@node Shell Syntax**#
+СдржНд***##*@section Shell Syntax*##Перевод#**@section Shell Syntax**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Shell Syntax_#_***
+ЯкорьНода***Basic Shell Features*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Basic Shell Features*##Перевод#**@node Basic Shell Features**#
+СдржНд***##*@chapter Basic Shell Features*##Перевод#**@chapter Basic Shell Features**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Basic Shell Features_#_***
+ЯкорьНода***Definitions*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Definitions*##Перевод#**@node Definitions**#
+СдржНд***##*@chapter Definitions*##Перевод#**@chapter Definitions**#
+***СсылкиНаНоду***
+##*(@pxref{Definitions})*##Перевод**#(@pxref{Definitions})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Definitions_#_***
+ЯкорьНода***What is a shell?*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node What is a shell?*##Перевод#**@node What is a shell?**#
+СдржНд***##*@section What is a shell?*##Перевод#**@section What is a shell?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_What is a shell?_#_***
+ЯкорьНода***What is Bash?*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node What is Bash?*##Перевод#**@node What is Bash?**#
+СдржНд***##*@section What is Bash?*##Перевод#**@section What is Bash?**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_What is Bash?_#_***
+ЯкорьНода***Introduction*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Introduction*##Перевод#**@node Introduction**#
+СдржНд***##*@chapter Introduction*##Перевод#**@chapter Introduction**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Introduction_#_***
+ЯкорьНода***Top, Introduction, (dir), (dir)*#*/home/alamd/example/funEl/expirement/perevod_bash/bashref.texi*#*
+ТочкаНоды***##*@node Top, Introduction, (dir), (dir)*##Перевод#**@node Top, Introduction, (dir), (dir)**#
+СдржНд***##*@top Bash Features*##Перевод#**@top Bash Features**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Top, Introduction, (dir), (dir)_#_***
+ЯкорьНода***A Programmable Completion Example*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node A Programmable Completion Example*##Перевод#**@node A Programmable Completion Example**#
+СдржНд***##*@section A Programmable Completion Example*##Перевод#**@section A Programmable Completion Example**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_A Programmable Completion Example_#_***
+ЯкорьНода***Programmable Completion Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Programmable Completion Builtins*##Перевод#**@node Programmable Completion Builtins**#
+СдржНд***##*@section Programmable Completion Builtins*##Перевод#**@section Programmable Completion Builtins**#
+***СсылкиНаНоду***
+##*(@pxref{Programmable Completion Builtins})*##Перевод**#(@pxref{Programmable Completion Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Programmable Completion Builtins_#_***
+ЯкорьНода***Programmable Completion*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Programmable Completion*##Перевод#**@node Programmable Completion**#
+СдржНд***##*@section Programmable Completion*##Перевод#**@section Programmable Completion**#
+***СсылкиНаНоду***
+##*(@pxref{Programmable Completion})*##Перевод**#(@pxref{Programmable Completion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Programmable Completion_#_***
+ЯкорьНода***Readline vi Mode*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline vi Mode*##Перевод#**@node Readline vi Mode**#
+СдржНд***##*@section Readline vi Mode*##Перевод#**@section Readline vi Mode**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline vi Mode_#_***
+ЯкорьНода***Miscellaneous Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Miscellaneous Commands*##Перевод#**@node Miscellaneous Commands**#
+СдржНд***##*@subsection Some Miscellaneous Commands*##Перевод#**@subsection Some Miscellaneous Commands**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Miscellaneous Commands_#_***
+ЯкорьНода***Keyboard Macros*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Keyboard Macros*##Перевод#**@node Keyboard Macros**#
+СдржНд***##*@subsection Keyboard Macros*##Перевод#**@subsection Keyboard Macros**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Keyboard Macros_#_***
+ЯкорьНода***Commands For Completion*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Commands For Completion*##Перевод#**@node Commands For Completion**#
+СдржНд***##*@subsection Letting Readline Type For You*##Перевод#**@subsection Letting Readline Type For You**#
+***СсылкиНаНоду***
+##*(@pxref{Commands For Completion})*##Перевод**#(@pxref{Commands For Completion})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Commands For Completion_#_***
+ЯкорьНода***Numeric Arguments*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Numeric Arguments*##Перевод#**@node Numeric Arguments**#
+СдржНд***##*@subsection Specifying Numeric Arguments*##Перевод#**@subsection Specifying Numeric Arguments**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Numeric Arguments_#_***
+ЯкорьНода***Commands For Killing*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Commands For Killing*##Перевод#**@node Commands For Killing**#
+СдржНд***##*@subsection Killing And Yanking*##Перевод#**@subsection Killing And Yanking**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Commands For Killing_#_***
+ЯкорьНода***Commands For Text*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Commands For Text*##Перевод#**@node Commands For Text**#
+СдржНд***##*@subsection Commands For Changing Text*##Перевод#**@subsection Commands For Changing Text**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Commands For Text_#_***
+ЯкорьНода***Commands For History*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Commands For History*##Перевод#**@node Commands For History**#
+СдржНд***##*@subsection Commands For Manipulating The History*##Перевод#**@subsection Commands For Manipulating The History**#
+***СсылкиНаНоду***
+##*(@pxref{Commands For History})*##Перевод**#(@pxref{Commands For History})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Commands For History_#_***
+ЯкорьНода***Commands For Moving*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Commands For Moving*##Перевод#**@node Commands For Moving**#
+СдржНд***##*@subsection Commands For Moving*##Перевод#**@subsection Commands For Moving**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Commands For Moving_#_***
+ЯкорьНода***Bindable Readline Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Bindable Readline Commands*##Перевод#**@node Bindable Readline Commands**#
+СдржНд***##*@section Bindable Readline Commands*##Перевод#**@section Bindable Readline Commands**#
+***СсылкиНаНоду***
+##*(@pxref{Bindable Readline Commands})*##Перевод**#(@pxref{Bindable Readline Commands})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bindable Readline Commands_#_***
+ЯкорьНода***Sample Init File*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Sample Init File*##Перевод#**@node Sample Init File**#
+СдржНд***##*@subsection Sample Init File*##Перевод#**@subsection Sample Init File**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Sample Init File_#_***
+ЯкорьНода***Conditional Init Constructs*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Conditional Init Constructs*##Перевод#**@node Conditional Init Constructs**#
+СдржНд***##*@subsection Conditional Init Constructs*##Перевод#**@subsection Conditional Init Constructs**#
+***СсылкиНаНоду***
+##*(@pxref{Conditional Init Constructs})*##Перевод**#(@pxref{Conditional Init Constructs})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Conditional Init Constructs_#_***
+ЯкорьНода***Readline Init File Syntax*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Init File Syntax*##Перевод#**@node Readline Init File Syntax**#
+СдржНд***##*@subsection Readline Init File Syntax*##Перевод#**@subsection Readline Init File Syntax**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Init File Syntax_#_***
+ЯкорьНода***Readline Init File*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Init File*##Перевод#**@node Readline Init File**#
+СдржНд***##*@section Readline Init File*##Перевод#**@section Readline Init File**#
+***СсылкиНаНоду***
+##*(@pxref{Readline Init File})*##Перевод**#(@pxref{Readline Init File})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Init File_#_***
+ЯкорьНода***Searching*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Searching*##Перевод#**@node Searching**#
+СдржНд***##*@subsection Searching for Commands in the History*##Перевод#**@subsection Searching for Commands in the History**#
+***СсылкиНаНоду***
+##*(@pxref{Searching})*##Перевод**#(@pxref{Searching})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Searching_#_***
+ЯкорьНода***Readline Arguments*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Arguments*##Перевод#**@node Readline Arguments**#
+СдржНд***##*@subsection Readline Arguments*##Перевод#**@subsection Readline Arguments**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Arguments_#_***
+ЯкорьНода***Readline Killing Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Killing Commands*##Перевод#**@node Readline Killing Commands**#
+СдржНд***##*@subsection Readline Killing Commands*##Перевод#**@subsection Readline Killing Commands**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Killing Commands_#_***
+ЯкорьНода***Readline Movement Commands*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Movement Commands*##Перевод#**@node Readline Movement Commands**#
+СдржНд***##*@subsection Readline Movement Commands*##Перевод#**@subsection Readline Movement Commands**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Movement Commands_#_***
+ЯкорьНода***Readline Bare Essentials*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Bare Essentials*##Перевод#**@node Readline Bare Essentials**#
+СдржНд***##*@subsection Readline Bare Essentials*##Перевод#**@subsection Readline Bare Essentials**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Bare Essentials_#_***
+ЯкорьНода***Readline Interaction*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Readline Interaction*##Перевод#**@node Readline Interaction**#
+СдржНд***##*@section Readline Interaction*##Перевод#**@section Readline Interaction**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Readline Interaction_#_***
+ЯкорьНода***Introduction and Notation*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Introduction and Notation*##Перевод#**@node Introduction and Notation**#
+СдржНд***##*@section Introduction to Line Editing*##Перевод#**@section Introduction to Line Editing**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Introduction and Notation_#_***
+ЯкорьНода***Command Line Editing*#*/home/alamd/example/funEl/expirement/perevod_bash/rluser.texi*#*
+ТочкаНоды***##*@node Command Line Editing*##Перевод#**@node Command Line Editing**#
+СдржНд***##*@chapter Command Line Editing*##Перевод#**@chapter Command Line Editing**#
+***СсылкиНаНоду***
+##*(@pxref{Command Line Editing})*##Перевод**#(@pxref{Command Line Editing})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Command Line Editing_#_***
+ЯкорьНода***Modifiers*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Modifiers*##Перевод#**@node Modifiers**#
+СдржНд***##*@subsection Modifiers*##Перевод#**@subsection Modifiers**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Modifiers_#_***
+ЯкорьНода***Word Designators*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Word Designators*##Перевод#**@node Word Designators**#
+СдржНд***##*@subsection Word Designators*##Перевод#**@subsection Word Designators**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Word Designators_#_***
+ЯкорьНода***Event Designators*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Event Designators*##Перевод#**@node Event Designators**#
+СдржНд***##*@subsection Event Designators*##Перевод#**@subsection Event Designators**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Event Designators_#_***
+ЯкорьНода***History Interaction*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node History Interaction*##Перевод#**@node History Interaction**#
+СдржНд***##*@section History Expansion*##Перевод#**@section History Expansion**#
+***СсылкиНаНоду***
+##*(@pxref{History Interaction})*##Перевод**#(@pxref{History Interaction})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_History Interaction_#_***
+ЯкорьНода***Bash History Builtins*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Bash History Builtins*##Перевод#**@node Bash History Builtins**#
+СдржНд***##*@section Bash History Builtins*##Перевод#**@section Bash History Builtins**#
+***СсылкиНаНоду***
+##*(@pxref{Bash History Builtins})*##Перевод**#(@pxref{Bash History Builtins})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash History Builtins_#_***
+ЯкорьНода***Bash History Facilities*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Bash History Facilities*##Перевод#**@node Bash History Facilities**#
+СдржНд***##*@section Bash History Facilities*##Перевод#**@section Bash History Facilities**#
+***СсылкиНаНоду***
+##*@ref{Bash History Facilities}*##Перевод**#@ref{Bash History Facilities}#**
+##*@xref{Bash History Facilities}*##Перевод**#@xref{Bash History Facilities}#**
+##*(@pxref{Bash History Facilities})*##Перевод**#(@pxref{Bash History Facilities})#**
+***КонецСсылкиНаНоду***
+***КонецНода_#_Bash History Facilities_#_***
+ЯкорьНода***Using History Interactively*#*/home/alamd/example/funEl/expirement/perevod_bash/hsuser.texi*#*
+ТочкаНоды***##*@node Using History Interactively*##Перевод#**@node Using History Interactively**#
+СдржНд***##*@chapter Using History Interactively*##Перевод#**@chapter Using History Interactively**#
+***СсылкиНаНоду***
+***КонецСсылкиНаНоду***
+***КонецНода_#_Using History Interactively_#_***

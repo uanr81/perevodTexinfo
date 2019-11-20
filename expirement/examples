@@ -1,0 +1,61 @@
+(defun texinfo-show-structure (&optional nodes-too)
+  "Показать структуру файла Texinfo. Перечислите строки в файле, 
+  которые начинаются с командами @-sign для @chapter, @section, и тому подобное.
+
+С дополнительным аргументом (префикс, если интерактивный), список как строки 
+с командами @-sign для @chapter, @section, и т.п., а также список строк @node.
+
+Строки с структурированием команд, начинающихся в них отображаются в другом 
+буфере с именем `*Occur*'. В этом буфере, вы можете перемещать точку на одной 
+из этих линий, а затем использовать \<occur-mode-map>\[occur-mode-goto-occurrence], 
+чтобы перейти к соответствующему месту в исходном файле Texinfo."
+
+  (interactive "P")
+  ;; Во-первых, помните текущее местоположение
+  (let (current-location)
+    (save-excursion
+      (end-of-line)            ; с тем, чтобы найти раздел в текущей строке
+      (if (re-search-backward
+           ;; не требуют `texinfo-section-types-regexp' в texnfo-upd.el
+           "^@\\(chapter \\|sect\\|subs\\|subh\\|unnum\\|major\\|chapheading \\|heading \\|appendix\\)"
+           nil t)
+          (setq current-location
+                (progn
+                  (beginning-of-line)
+                  (buffer-substring (point) (progn (end-of-line) (point)))))
+        ;; иначе точка находится перед любой командой раздела.
+        (setq current-location "tex")))
+    ;; Во-вторых, создание и форматирование буфера *Occur*
+    (save-excursion
+      (goto-char (point-min))
+      (occur (concat "^\\(?:" (if nodes-too "@node\\>\\|")
+		     outline-regexp "\\)")))
+    (pop-to-buffer "*Occur*")
+    (goto-char (point-min))
+    (let ((inhibit-read-only t))
+      (flush-lines "-----")
+      ;; Теперь формат буфера "*Occur*", чтобы показать структуру.
+      ;; Благодаря ceder@signum.se (Per Седерквист)
+      (goto-char (point-max))
+      (let (level)
+        (while (re-search-backward "^ *[0-9]*:@\\(\\sw+\\)" nil 0)
+          (goto-char (1- (match-beginning 1)))
+          (setq level
+                (or (cadr (assoc (match-string 1) texinfo-section-list)) 2))
+          (indent-to-column (+ (current-column) (* 4 (- level 2))))
+          (beginning-of-line))))
+    ;; В-третьих, перейти к строке, соответствующее местоположению
+    ;; в исходном файле потенциальной ошибки: два точно подобных
+    ;; `current-location' строк ...
+    (goto-char (point-min))
+    (re-search-forward current-location nil t)
+    (beginning-of-line)
+    ))
+*******************************************************************************
+Регулярное выражение поиск нод и структурирование
+(occur (concat "^\\(?:" (if nodes-too "@node\\>\\|")
+		     outline-regexp "\\)"))
+outline-regexp ;;;=>
+"\\(@\\(?:appendix\\(?:s\\(?:ec\\(?:tion\\)?\\|ubs\\(?:\\(?:ubs\\)?ec\\)\\)\\)?\\|chap\\(?:heading\\|ter\\)\\|heading\\|majorheading\\|s\\(?:ection\\|ub\\(?:heading\\|s\\(?:ection\\|ub\\(?:heading\\|section\\)\\)\\)\\)\\|top\\|unnumbered\\(?:s\\(?:\\(?:ubs\\(?:ubs\\)?\\)?ec\\)\\)?\\)\\)\\>"
+
+*******************************************************************************
