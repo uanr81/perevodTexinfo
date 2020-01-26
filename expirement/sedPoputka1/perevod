@@ -1,0 +1,248 @@
+***ОбрФайл***/home/alamd/example/funEl/expirement/sedPoputka1/fdl.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/sedPoputka1/config.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/sedPoputka1/version.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/sedPoputka1/sed.texi***
+ЯкрНд**#Top#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Top*##Првд#**@node Top**#
+***КонецНода_#_Top_#_***
+ЯкрНд**#Introduction#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Introduction*##Првд#**@node Вступление**#
+***КонецНода_#_Introduction_#_***
+ЯкрНд**#Invoking sed#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Invoking sed*##Првд#**@node Вызов sed**#
+***СсылкиНаНоду#Invoking sed#***
+##*(@pxref{Вызов sed, , Вызов})*##Првд#**(@pxref{Вызов sed, , Вызов})**#
+***КонецСсылкиНаНоду#Invoking sed#***
+***КонецНода_#_Invoking sed_#_***
+ЯкрНд**#Overview#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Overview*##Првд#**@node Обзор**#
+***СсылкиНаНоду#Overview#***
+##*@xref{Обзор}*##Првд#**@xref{Обзор}**#
+***КонецСсылкиНаНоду#Overview#***
+***КонецНода_#_Overview_#_***
+ЯкрНд**#Command-Line Options#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Command-Line Options*##Првд#**@node Опции Командной Строки**#
+***КонецНода_#_Command-Line Options_#_***
+ЯкрНд**#Exit status#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Exit status*##Првд#**@node Статус Возврата**#
+***КонецНода_#_Exit status_#_***
+ЯкрНд**#sed scripts#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node sed scripts*##Првд#**@node sed Сценарии**#
+***КонецНода_#_sed scripts_#_***
+ЯкрНд**#sed script overview#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node sed script overview*##Првд#**@node sed Сценарии Обзор**#
+***КонецНода_#_sed script overview_#_***
+ЯкрНд**#sed commands list#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node sed commands list*##Првд#**@node sed Писок Команд**#
+***КонецНода_#_sed commands list_#_***
+ЯкрНд**#The "s" Command#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node The "s" Command*##Првд#**@node Команда "s"**#
+***СсылкиНаНоду#The "s" Command#***
+##*@ref{The "s" Command}*##Првд#**@ref{Команда "s"}**#
+##*@xref{The "s" Command}*##Првд#**@xref{Команда "s"}**#
+***КонецСсылкиНаНоду#The "s" Command#***
+***КонецНода_#_The "s" Command_#_***
+ЯкрНд**#Common Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Common Commands*##Првд#**@node Общие Команды**#
+***КонецНода_#_Common Commands_#_***
+ЯкрНд**#Other Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Other Commands*##Првд#**@node Другие Команды**#
+***КонецНода_#_Other Commands_#_***
+ЯкрНд**#insert command#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@anchor{insert command}*##Првд#**@anchor{Вставка Команды}**#
+***СсылкиНаНоду#insert command#***
+##*(@pxref{insert command})*##Првд#**(@pxref{Вставка Команды})**#
+***КонецСсылкиНаНоду#insert command#***
+***КонецНода_#_insert command_#_***
+ЯкрНд**#Programming Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Programming Commands*##Првд#**@node Программирование Команд**#
+***КонецНода_#_Programming Commands_#_***
+ЯкрНд**#Extended Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Extended Commands*##Првд#**@node Расширенные команды**#
+***КонецНода_#_Extended Commands_#_***
+ЯкрНд**#Multiple commands syntax#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Multiple commands syntax*##Првд#**@node Синтаксис Нескольких Команд**#
+***СсылкиНаНоду#Multiple commands syntax#***
+##*@xref{Multiple commands syntax}*##Првд#**@xref{Синтаксис Нескольких Команд}**#
+***КонецСсылкиНаНоду#Multiple commands syntax#***
+***КонецНода_#_Multiple commands syntax_#_***
+ЯкрНд**#sed addresses#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node sed addresses*##Првд#**@node sed Адрессация**#
+***СсылкиНаНоду#sed addresses#***
+##*(@pxref{sed addresses})*##Првд#**(@pxref{sed Адрессация})**#
+***КонецСсылкиНаНоду#sed addresses#***
+***КонецНода_#_sed addresses_#_***
+ЯкрНд**#Addresses overview#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Addresses overview*##Првд#**@node Адрессация Обзор**#
+***СсылкиНаНоду#Addresses overview#***
+##*@ref{Addresses overview}*##Првд#**@ref{Адрессация Обзор}**#
+***КонецСсылкиНаНоду#Addresses overview#***
+***КонецНода_#_Addresses overview_#_***
+ЯкрНд**#Numeric Addresses#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Numeric Addresses*##Првд#**@node Нумерация Адрессов**#
+***КонецНода_#_Numeric Addresses_#_***
+ЯкрНд**#Regexp Addresses#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Regexp Addresses*##Првд#**@node Адресация Регулярные Выражения**#
+***КонецНода_#_Regexp Addresses_#_***
+ЯкрНд**#Range Addresses#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Range Addresses*##Првд#**@node Диапазон Адреса**#
+***КонецНода_#_Range Addresses_#_***
+ЯкрНд**#sed regular expressions#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node sed regular expressions*##Првд#**@node sed Регулярные Выражения**#
+***КонецНода_#_sed regular expressions_#_***
+ЯкрНд**#Regular Expressions Overview#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Regular Expressions Overview*##Првд#**@node Регулярные Выражения Обзор**#
+***КонецНода_#_Regular Expressions Overview_#_***
+ЯкрНд**#BRE vs ERE#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node BRE vs ERE*##Првд#**@node Базовое и Расширенное Регулярное Выражение**#
+***СсылкиНаНоду#BRE vs ERE#***
+##*@xref{BRE vs ERE}*##Првд#**@xref{Базовое и Расширенное Регулярное Выражение}**#
+***КонецСсылкиНаНоду#BRE vs ERE#***
+***КонецНода_#_BRE vs ERE_#_***
+ЯкрНд**#BRE syntax#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node BRE syntax*##Првд#**@node Синтаксис Базового Регулярного Выражения**#
+***КонецНода_#_BRE syntax_#_***
+ЯкрНд**#ERE syntax#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node ERE syntax*##Првд#**@node Синтаксис Расширенного Регулярного Выражения**#
+***СсылкиНаНоду#ERE syntax#***
+##*@xref{ERE syntax}*##Првд#**@xref{Синтаксис Расширенного Регулярного Выражения}**#
+***КонецСсылкиНаНоду#ERE syntax#***
+***КонецНода_#_ERE syntax_#_***
+ЯкрНд**#Character Classes and Bracket Expressions#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Character Classes and Bracket Expressions*##Првд#**@node Классы Символов и Выражения в Скобках**#
+***СсылкиНаНоду#Character Classes and Bracket Expressions#***
+##*@xref{Character Classes and Bracket Expressions}*##Првд#**@xref{Классы Символов и Выражения в Скобках}**#
+***КонецСсылкиНаНоду#Character Classes and Bracket Expressions#***
+***КонецНода_#_Character Classes and Bracket Expressions_#_***
+ЯкрНд**#regexp extensions#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node regexp extensions*##Првд#**@node Регулярные Выражения Расширения**#
+***СсылкиНаНоду#regexp extensions#***
+##*@xref{regexp extensions}*##Првд#**@xref{Регулярные Выражения Расширения}**#
+***КонецСсылкиНаНоду#regexp extensions#***
+***КонецНода_#_regexp extensions_#_***
+ЯкрНд**#Back-references and Subexpressions#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Back-references and Subexpressions*##Првд#**@node Обратные Ссылки и Подвыражения**#
+***СсылкиНаНоду#Back-references and Subexpressions#***
+##*@xref{Back-references and Subexpressions}*##Првд#**@xref{Обратные Ссылки и Подвыражения}**#
+***КонецСсылкиНаНоду#Back-references and Subexpressions#***
+***КонецНода_#_Back-references and Subexpressions_#_***
+ЯкрНд**#Escapes#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Escapes*##Првд#**@node Пропуски**#
+***СсылкиНаНоду#Escapes#***
+##*@xref{Escapes}*##Првд#**@xref{Пропуски}**#
+***КонецСсылкиНаНоду#Escapes#***
+***КонецНода_#_Escapes_#_***
+ЯкрНд**#Locale Considerations#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Locale Considerations*##Првд#**@node Локальные Соображения**#
+***КонецНода_#_Locale Considerations_#_***
+ЯкрНд**#advanced sed#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node advanced sed*##Првд#**@node Продвинутый sed**#
+***КонецНода_#_advanced sed_#_***
+ЯкрНд**#Execution Cycle#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Execution Cycle*##Првд#**@node Выполнение Цикла**#
+***КонецНода_#_Execution Cycle_#_***
+ЯкрНд**#Hold and Pattern Buffers#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Hold and Pattern Buffers*##Првд#**@node Удерживающие и Шаблонные Буферы**#
+***КонецНода_#_Hold and Pattern Buffers_#_***
+ЯкрНд**#Multiline techniques#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Multiline techniques*##Првд#**@node Многоcтрочные Методы**#
+***СсылкиНаНоду#Multiline techniques#***
+##*@xref{Multiline techniques}*##Првд#**@xref{Многоcтрочные Методы}**#
+***КонецСсылкиНаНоду#Multiline techniques#***
+***КонецНода_#_Multiline techniques_#_***
+ЯкрНд**#Branching and flow control#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Branching and flow control*##Првд#**@node Ветвление и Управление Потоком**#
+***СсылкиНаНоду#Branching and flow control#***
+##*@ref{Branching and flow control}*##Првд#**@ref{Ветвление и Управление Потоком}**#
+***КонецСсылкиНаНоду#Branching and flow control#***
+***КонецНода_#_Branching and flow control_#_***
+ЯкрНд**#Examples#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Examples*##Првд#**@node Прмеры**#
+***КонецНода_#_Examples_#_***
+ЯкрНд**#Joining lines#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Joining lines*##Првд#**@node Присоединение Строк**#
+***КонецНода_#_Joining lines_#_***
+ЯкрНд**#Centering lines#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Centering lines*##Првд#**@node Создание Строк**#
+***КонецНода_#_Centering lines_#_***
+ЯкрНд**#Increment a number#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Increment a number*##Првд#**@node Вставка по Номеру**#
+***КонецНода_#_Increment a number_#_***
+ЯкрНд**#Rename files to lower case#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Rename files to lower case*##Првд#**@node Переименование Имен Файлов в Нижний Регистр**#
+***КонецНода_#_Rename files to lower case_#_***
+ЯкрНд**#Print bash environment#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Print bash environment*##Првд#**@node Вывод Bash Окружения**#
+***КонецНода_#_Print bash environment_#_***
+ЯкрНд**#Reverse chars of lines#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Reverse chars of lines*##Првд#**@node Реверс Символов Строк**#
+***КонецНода_#_Reverse chars of lines_#_***
+ЯкрНд**#Text search across multiple lines#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Text search across multiple lines*##Првд#**@node Поиск Текста Из Несколько Строк**#
+***КонецНода_#_Text search across multiple lines_#_***
+ЯкрНд**#Line length adjustment#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Line length adjustment*##Првд#**@node Установка Длинны Строки**#
+***СсылкиНаНоду#Line length adjustment#***
+##*@ref{Line length adjustment}*##Првд#**@ref{Установка Длинны Строки}**#
+***КонецСсылкиНаНоду#Line length adjustment#***
+***КонецНода_#_Line length adjustment_#_***
+ЯкрНд**#tac#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node tac*##Првд#**@node tac**#
+***КонецНода_#_tac_#_***
+ЯкрНд**#cat -n#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node cat -n*##Првд#**@node cat -n**#
+***КонецНода_#_cat -n_#_***
+ЯкрНд**#cat -b#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node cat -b*##Првд#**@node cat -b**#
+***КонецНода_#_cat -b_#_***
+ЯкрНд**#wc -c#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node wc -c*##Првд#**@node wc -c**#
+***КонецНода_#_wc -c_#_***
+ЯкрНд**#wc -w#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node wc -w*##Првд#**@node wc -w**#
+***КонецНода_#_wc -w_#_***
+ЯкрНд**#wc -l#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node wc -l*##Првд#**@node wc -l**#
+***КонецНода_#_wc -l_#_***
+ЯкрНд**#head#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node head*##Првд#**@node head**#
+***КонецНода_#_head_#_***
+ЯкрНд**#tail#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node tail*##Првд#**@node tail**#
+***КонецНода_#_tail_#_***
+ЯкрНд**#uniq#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node uniq*##Првд#**@node uniq**#
+***КонецНода_#_uniq_#_***
+ЯкрНд**#uniq -d#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node uniq -d*##Првд#**@node uniq -d**#
+***КонецНода_#_uniq -d_#_***
+ЯкрНд**#uniq -u#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node uniq -u*##Првд#**@node uniq -u**#
+***КонецНода_#_uniq -u_#_***
+ЯкрНд**#cat -s#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node cat -s*##Првд#**@node cat -s**#
+***КонецНода_#_cat -s_#_***
+ЯкрНд**#Limitations#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Limitations*##Првд#**@node Ограничения**#
+***КонецНода_#_Limitations_#_***
+ЯкрНд**#Other Resources#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Other Resources*##Првд#**@node Другие Ресурсы**#
+***КонецНода_#_Other Resources_#_***
+ЯкрНд**#Reporting Bugs#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Reporting Bugs*##Првд#**@node Сообщения об Ошибках**#
+***СсылкиНаНоду#Reporting Bugs#***
+##*@ref{Reporting Bugs}*##Првд#**@ref{Сообщения об Ошибках}**#
+***КонецСсылкиНаНоду#Reporting Bugs#***
+***КонецНода_#_Reporting Bugs_#_***
+ЯкрНд**#N_command_last_line#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@anchor{N_command_last_line}*##Првд#**@anchor{N_command_last_line}**#
+***КонецНода_#_N_command_last_line_#_***
+ЯкрНд**#GNU Free Documentation License#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node GNU Free Documentation License*##Првд#**@node GNU Free Documentation License**#
+***КонецНода_#_GNU Free Documentation License_#_***
+ЯкрНд**#Concept Index#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Concept Index*##Првд#**@node Концепция Индекс**#
+***КонецНода_#_Concept Index_#_***
+ЯкрНд**#Command and Option Index#**#_Фйл_#/home/alamd/example/funEl/expirement/sedPoputka1.texi/sed.texi#_кнФйл_#
+ТчкНд***##*@node Command and Option Index*##Првд#**@node Команды и Опции Индекс**#
+***КонецНода_#_Command and Option Index_#_***

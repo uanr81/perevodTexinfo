@@ -161,41 +161,41 @@ flush-lines is an interactive compiled Lisp function.
 начиная с одной и той же строки, на которой законнчилось следующее совпадение игнорируется.
 **********************************************************************
 (defmacro setq-local (var val)
-  "Set variable VAR to value VAL in current buffer."
-  ;; Can't use backquote here, it's too early in the bootstrap.
+  "Установить переменную VAR к значению VAL в текущем буфере."
+  ;; Нельзя использовать кавычку здесь, это слишком рано в загрузчике.
   (list 'set (list 'make-local-variable (list 'quote var)) val))
 ***********************************************************************
-occur is an interactive compiled Lisp function in `replace.el'.
+occur представляет собой интерактивную скомпилированую функцию Лиспа в `replace.el'.
 
-It is bound to M-s o.
+Это связано с M-s o.
 
 (occur REGEXP &optional NLINES)
 
-Show all lines in the current buffer containing a match for REGEXP.
-If a match spreads across multiple lines, all those lines are shown.
+Показать все строки в текущем буфере, содержащем соответствие с REGEXP.
+Если матч спреды по нескольким линиям, все эти линии показаны.
 
-Each line is displayed with NLINES lines before and after, or -NLINES
-before if NLINES is negative.
-NLINES defaults to `list-matching-lines-default-context-lines'.
-Interactively it is the prefix arg.
+Каждая строка отображается NLINES строк до и после, или -NLINES раньше,
+если NLINES отрицательный.
+NLINES по умолчанию `list-matching-lines-default-context-lines'.
+При интерактивном вызове это префикс аргумент.
 
-The lines are shown in a buffer named `*Occur*'.
-It serves as a menu to find any of the occurrences in this buffer.
-h in that buffer will explain how.
+Строки показаны в буфере с именем `*Occur*'.
+Он служит меню, чтобы найти какое-либо из вхождений в этом буфере.
+h в этом буфере будет объяснить, как.
 
-If REGEXP contains upper case characters (excluding those preceded by `\')
-and `search-upper-case' is non-nil, the matching is case-sensitive.
+Если REGEXP содержит символы верхнего регистра (за исключением тех которым,
+предшествуют `\') и `search-upper-case' это не-nil, согласование является
+чувствительным к регистру.
 
-When NLINES is a string or when the function is called
-interactively with prefix argument without a number (`C-u' alone
-as prefix) the matching strings are collected into the `*Occur*'
-buffer by using NLINES as a replacement regexp.  NLINES may
-contain \& and \N which convention follows `replace-match'.
-For example, providing "defun\s +\(\S +\)" for REGEXP and
-"\1" for NLINES collects all the function names in a lisp
-program.  When there is no parenthesized subexpressions in REGEXP
-the entire match is collected.  In any case the searched buffer
-is not modified.
+Когда NLINES является строкой или когда функция вызывается в интерактивном
+режиме с префиксом аргументом без номера (`C-u' отдельно в качестве префикса)
+совпадающие строки собраны в буфер `*Occur*' с помощью NLINES в качестве
+замены регулярного выражения.  NLINES может содержать \& и \N которые
+конвенции следует `replace-match'.
+Например, предоставление "defun\s +\(\S +\)" для REGEXP и
+"\1" для NLINES собирает все имена функций в программе LISP.
+Когда нет группировок подвыражений в REGEXP собирает всё совпадение.
+В любом случае искомый буфер не изменяется.
 **********************************************************************
 (defun occur (regexp &optional nlines)
   "Show all lines in the current buffer containing a match for REGEXP.
@@ -311,3 +311,226 @@ If nil, uses `regexp-history'."
       (prog1 input
 	(add-to-history (or history 'regexp-history) input)))))
 **********************************************************************
+(let ((текСсылки (assoc "спсСсылок" текЗаписьНода)))
+  (if tkSpsSSl
+      (add-to-list 'текСсылки allSovp)
+    (setcdr 'текСсылки newSps)))
+****************************************************************
+Тема: Ассоциативный список
+Тема: Associative list
+
+Вопрос: Ниже приведен код, содержимое списка myList скопировал в отладчике.
+
+("спсСсылок" "@ref{Bash Features}")
+
+Question: The code is below, the contents of the list myList were copied in the debugger.
+(let* ((myList '(("Concept Index" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Concept Index") ("спсСсылок")) ("Function Index" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Function Index") ("спсСсылок" "@ref{Bash Features}")) ("Variable Index" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Variable Index") ("спсСсылок" "@ref{Bash Features}")) ("Reserved Word Index" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Reserved Word Index") ("спсСсылок" "@ref{Bash Features}")) ("Builtin Index" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Builtin Index") ("спсСсылок" "@ref{Bash Features}")) ("Indexes" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Indexes") ("спсСсылок" "@ref{Bash Features}")) ("GNU Free Documentation License" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node GNU Free Documentation License") ("спсСсылок" "@ref{Bash Features}")) ("Major Differences From The Bourne Shell" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Major Differences From The Bourne Shell") ("спсСсылок" "@ref{Bash Features}")) ("Reporting Bugs" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Reporting Bugs") ("спсСсылок" "@ref{Bash Features}")) ("Optional Features" ("Файл" "/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi") ("ТочкаНоды" "@node Optional Features") ("спсСсылок" "@ref{Bash Features}")))) (текАссоц (assoc "спсСсылок" (assoc "Optional Features" myList))) (текСписСсылок (cdr текАссоц)))
+  (setcdr текАссоц (add-to-list 'текСписСсылок "hudoSsulka")) myList)
+
+
+\\(?2:@xref{\\(?1:[^,}]+\\)\\(?:,[^}]+}\\|}\\)\\)
+
+Код отрабатывает как ожидалось, в ассоциативном списке с ассоциацией "Optional Features", в ассоциативном списке с ассоциацией "спсСсылок" добавляется элемент "hudoSsulka". Однако на настоящем коде:
+The code fulfills as expected, in the associative list with the association "Optional Features", in the associative list with the association "cpsLinks" the element "hudoSsulka" is added. However, on this code:
+
+(let* ((myList спЯкрНд) (текАссоц (assoc "спсСсылок" (assoc (match-string-no-properties 1) myList))) (текСпсСсылок (cdr текАссоц)))
+  (setcdr текАссоц (add-to-list (quote текСпсСсылок) (match-string-no-properties 0))) myList)
+
+заполняются все без разбора родителя ассоциации "спсСсылок". Почему так происходит?
+all indiscriminately the parent of the "cpsLinks" association is populated. Why it happens?
+
+Спасибо, за ответ. Я воспроизвёл здесь часть реального списка, скопировав в отладчике. В коде этот список передаётся в параметре.
+
+*************************************************************************************
+Эффект, который вы описываете, возникает, когда вы используете один и тот же подсписок для построения своего списка, а не просто равные подсписки.Один и тот же список остается связанным со всеми ключами вашего списка, и вы можете адресовать этот же и единственный подсписок через все ключи. Когда вы получаете доступ к этому списку через один из ключей и изменяете его, эта модификация видна во всех записях списка.Далее следует упрощенный пример. Сначала мы определяем SUBLIST. После этого мы создаем список с ключами 1, 2, с которым связываем тот же самый SUBLIST. После этого мы изменяем список, связанный с 2, перезаписывая с помощью A.
+
+(let* ((SUBLIST '(a b))
+       (alist (mapcar (lambda (x)
+               (cons x SUBLIST))
+             '(1 2))))
+  (setcar (cdr (assoc 2 alist)) 'A)
+  alist)
+
+Результат:
+
+((1 A b) (2 A b))
+
+Мы видим тот же модифицированный подсписок (A B), связанный с обоими ключами 1 и 2.
+
+Лечение вашей проблемы просто: не ассоциирует тот же список для всех ключей, но только копий этого:
+
+(let* ((SUBLIST '(a b))
+       (alist (mapcar (lambda (x)
+               (cons x (seq-copy SUBLIST)))
+             '(1 2))))
+  (setcar (cdr (assoc 2 alist)) 'A)
+  alist)
+
+Теперь вы получите результаты, как вы ожидаете их:
+
+((1 a b) (2 A b))
+
+**************************************
+Another warning is in place if you have nested alists:
+(setq COPY (seq-copy SUBLIST)) produces a shallow copy of your list SUBLIST. If some car of the conses of SUBLIST contains a list CARLIST then only the link to CARLIST is copied not CARLIST itself. If you actually want copies of CARLIST in COPY you should use cl-copy-tree instead of seq-copy.
+Еще одно предупреждение на месте, если у вас есть вложенные alists:
+(setq COPY (seq-copy SUBLIST)) производит неполную копию вашего списка SUBLIST. Если какой-то car из conses в
+SUBLIST содержит список CARLIST только тогда ссылка на CARLIST копируется не CARLIST себя. Если вы
+действительно хотите копии CARLIST в COPY вы должны использовать cl-copy-tree вместо seq-copy.
+***************************************
+Как указывалось выше, ваш вопрос не является воспроизводимым или совсем понятно, но я сильно подозреваю, что вы можете быть сталкиваясь проблемы из-за изменения котируемой списка. See emacs.stackexchange.com/q/51749/15748, emacs.stackexchange.com/q/20535/15748, and emacs.stackexchange.com/q/45814/15748. Never call setcdr directly on a quoted list, i.e. one created as '(...). Вместо этого, либо создать список со списком, или сначала сделать копию с copy-sequence or similar. –
+********************************************
+cl-pushnew is a Lisp macro in `cl-lib.el'.
+
+(cl-pushnew X PLACE [KEYWORD VALUE]...)
+
+(cl-pushnew X PLACE): вставить X во главе списка, если уже не там. Как (push X PLACE), за исключением того, что список не изменялся, если X является `eql' к элементу уже в списке.
+************************************************
+
+(defun add-to-list (list-var element &optional append compare-fn)
+  "Добавить ELEMENT к значению LIST-VAR, если он еще не там. 
+Тест на наличие ELEMENT делается с `equal', или с COMPARE-FN, если это non-nil.
+Если ELEMENT добавляется, он добавляется в начало списка, 
+если необязательный аргумент APPEND не non-nil, то ELEMENT добавляется
+в конец списка.
+
+Возвращаемое значение новое значение LIST-VAR.
+
+Это удобно, чтобы добавить некоторые элементы переменных конфигурации, 
+но, пожалуйста, не ругайте его в Elisp коде, лучше использовать 
+`push' или `cl-pushnew'.
+
+Если вы хотите использовать `add-to-list' на переменную, которая 
+не определена, пока не будет загружен определенный пакет, 
+вы должны поместить вызов `add-to-list' в функцию крючка, 
+которая будет запущена только после загрузки пакета.  
+`eval-after-load' предоставляет один из способов сделать это. 
+В некоторых случаях другие крючки, такие как режим 
+основных крючков, может сделать эту работу."
+  (declare
+   (compiler-macro
+    (lambda (exp)
+      ;; ИСПРАВЬ МЕНЯ: Нечто подобное можно было бы использовать для `set', а также.
+      (if (or (not (eq 'quote (car-safe list-var)))
+              (special-variable-p (cadr list-var))
+              (not (macroexp-const-p append)))
+          exp
+        (let* ((sym (cadr list-var))
+               (append (eval append))
+               (msg (format "`add-to-list' can't use lexical var `%s'; use `push' or `cl-pushnew'"
+                            sym))
+               ;; Большой некрасивый хак поэтому мы только
+	       ;; выведем предупреждение во время байт-компиляции, и поэтому мы можем
+	       ;; использовать byte-compile-not-lexical-var-p, чтобы отключить
+	       ;; предупреждение, когда DefVar был виден, но еще не выполнен.
+               (warnfun (lambda ()
+                          ;; FIXME: Мы должны также выдавать предупреждение на
+			  ;; обязательное динамическое связывание переменных.
+                          (when (assq sym byte-compile--lexical-environment)
+                            (byte-compile-log-warning msg t :error))))
+               (code
+                (macroexp-let2 macroexp-copyable-p x element
+                  `(if ,(if compare-fn
+                            (progn
+                              (require 'cl-lib)
+                              `(cl-member ,x ,sym :test ,compare-fn))
+                          ;; Для самонастройки причин, не полагаться на
+			  ;; cl--compiler-macro-member для базового случая.
+                          `(member ,x ,sym))
+                       ,sym
+                     ,(if append
+                          `(setq ,sym (append ,sym (list ,x)))
+                        `(push ,x ,sym))))))
+          (if (not (macroexp--compiling-p))
+              code
+            `(progn
+               (macroexp--funcall-if-compiled ',warnfun)
+               ,code)))))))
+  (if (cond
+       ((null compare-fn)
+	(member element (symbol-value list-var)))
+       ((eq compare-fn 'eq)
+	(memq element (symbol-value list-var)))
+       ((eq compare-fn 'eql)
+	(memql element (symbol-value list-var)))
+       (t
+	(let ((lst (symbol-value list-var)))
+	  (while (and lst
+		      (not (funcall compare-fn element (car lst))))
+	    (setq lst (cdr lst)))
+          lst)))
+      (symbol-value list-var)
+    (set list-var
+	 (if append
+	     (append (symbol-value list-var) (list element))
+	   (cons element (symbol-value list-var))))))
+**********************************************************
+(memq ELT LIST)
+
+Возвращение non-nil если ELT является элементом LIST. Сравнение сделано с `eq'.
+Значение на самом деле хвост LIST чей автомобиль ELT.
+***********************************************************
+(memql ELT LIST)
+
+Возвращение non-nil если ELT является элементом LIST. Сравнение сделано с `eql'.
+Значение на самом деле хвост LIST чей автомобиль ELT.
+*************************************************************
+(member ELT LIST)
+
+Возвращение non-nil если ELT является элементом LIST. Сравнение сделано с `equal'.
+Значение на самом деле хвост LIST чей автомобиль ELT.
+**************************************************************
+
+(symbol-value SYMBOL)
+
+Возвращает значение SYMBOL's значения. Ошибка, если это является недействительным.
+Обратите внимание, что если `lexical-binding' задейсвована, это
+возвращает глобальное значение за пределами какой-либо лексической области.
+**************************************************************
+lexical-binding is a variable defined in `lread.c'.
+Его значение равно nil
+
+  Автоматически становится buffer-local, когда пождключается.
+  Эта переменная является безопасной, как локальная переменная файла,
+  если ее значение удовлетворяет предикату `booleanp'.
+
+Документация:
+Следует ли использовать лексическое связывание при оценке кода.
+Non-nil означает, что код в текущем буфере должен быть оценен с лексическим связыванием.
+Эта переменная автоматически устанавливается из файла переменных интерпретируемого
+файла Lisp чтения с помощью `load'. В отличие от других локальных файловых переменных,
+она должна быть установлена в первой строке файла.
+******************************************************************
+(booleanp OBJECT)
+
+Возвращение t если OBJECT является одним из двух канонических булевых значений: t или nil.
+В противном случае возврашает nil.
+******************************************************************
+(let VARLIST BODY...)
+
+Привязка переменных в соответствии с VARLIST затем Eval BODY.
+Значение последней формы в BODY возвращается.
+Каждый элемент VARLIST является символом (который привязан к nil) или
+список (SYMBOL VALUEFORM) (который связывает SYMBOL со значением VALUEFORM).
+Все VALUEFORMs вычисляются перед связыванием с символом.
+*********************************************************************
+(eq OBJ1 OBJ2)
+
+Возвращение t если два аргумента один и тот же объект Лиспа.
+***********************************************************************
+(eql OBJ1 OBJ2)
+
+Возвращение t если два аргумента такого же объект Лиспа.
+Равноценные числа с плавающей точкой являются ‘eql’, и они не могут быть ‘eq’.
+*************************************************************************
+(equal O1 O2)
+
+Возвращает t, если два объекта Лисп имеет сходную структуру и содержание.
+Они должны иметь одинаковый тип данных.
+Cons ячейки сравниваются путем сравнения cars и cdrs.
+Векторы и строки сравниваются поэлементно.
+Числа сравниваются по значению, но целые числа, не может сравниться с
+числами с плавающими точками.
+(Используйте ‘=’ если вы хотите сравнивать целые числа и числа с плавающей
+      точкой, чтобы иметь возможность сравнить.)
+Символы должны точно совпадать.

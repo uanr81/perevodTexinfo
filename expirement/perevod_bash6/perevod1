@@ -1,0 +1,636 @@
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash6/fdl.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash6/version.texi***
+***ОбрФайл***/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi***
+ЯкрНд**#Using History Interactively#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Using History Interactively*##Првд#**@node Using History Interactively**#
+***КонецНода_#_Using History Interactively_#_***
+ЯкрНд**#Bash History Facilities#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Bash History Facilities*##Првд#**@node Bash History Facilities**#
+***СсылкиНаНоду#Bash History Facilities#***
+##*(@pxref{Bash History Facilities})*##Првд#**(@pxref{Bash History Facilities})**#
+##*@xref{Bash History Facilities}*##Првд#**@xref{Bash History Facilities}**#
+##*@ref{Bash History Facilities}*##Првд#**@ref{Bash History Facilities}**#
+***КонецСсылкиНаНоду#Bash History Facilities#***
+***КонецНода_#_Bash History Facilities_#_***
+ЯкрНд**#Bash History Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Bash History Builtins*##Првд#**@node Bash History Builtins**#
+***СсылкиНаНоду#Bash History Builtins#***
+##*(@pxref{Bash History Builtins})*##Првд#**(@pxref{Bash History Builtins})**#
+***КонецСсылкиНаНоду#Bash History Builtins#***
+***КонецНода_#_Bash History Builtins_#_***
+ЯкрНд**#History Interaction#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node History Interaction*##Првд#**@node History Interaction**#
+***СсылкиНаНоду#History Interaction#***
+##*(@pxref{History Interaction})*##Првд#**(@pxref{History Interaction})**#
+***КонецСсылкиНаНоду#History Interaction#***
+***КонецНода_#_History Interaction_#_***
+ЯкрНд**#Event Designators#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Event Designators*##Првд#**@node Event Designators**#
+***КонецНода_#_Event Designators_#_***
+ЯкрНд**#Word Designators#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Word Designators*##Првд#**@node Word Designators**#
+***КонецНода_#_Word Designators_#_***
+ЯкрНд**#Modifiers#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/hsuser.texi#_кнФйл_#
+ТчкНд***##*@node Modifiers*##Првд#**@node Modifiers**#
+***КонецНода_#_Modifiers_#_***
+ЯкрНд**#Command Line Editing#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Command Line Editing*##Првд#**@node Command Line Editing**#
+***СсылкиНаНоду#Command Line Editing#***
+##*(@pxref{Command Line Editing})*##Првд#**(@pxref{Command Line Editing})**#
+***КонецСсылкиНаНоду#Command Line Editing#***
+***КонецНода_#_Command Line Editing_#_***
+ЯкрНд**#Introduction and Notation#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Introduction and Notation*##Првд#**@node Introduction and Notation**#
+***КонецНода_#_Introduction and Notation_#_***
+ЯкрНд**#Readline Interaction#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Interaction*##Првд#**@node Readline Interaction**#
+***КонецНода_#_Readline Interaction_#_***
+ЯкрНд**#Readline Bare Essentials#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Bare Essentials*##Првд#**@node Readline Bare Essentials**#
+***КонецНода_#_Readline Bare Essentials_#_***
+ЯкрНд**#Readline Movement Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Movement Commands*##Првд#**@node Readline Movement Commands**#
+***КонецНода_#_Readline Movement Commands_#_***
+ЯкрНд**#Readline Killing Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Killing Commands*##Првд#**@node Readline Killing Commands**#
+***КонецНода_#_Readline Killing Commands_#_***
+ЯкрНд**#Readline Arguments#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Arguments*##Првд#**@node Readline Arguments**#
+***КонецНода_#_Readline Arguments_#_***
+ЯкрНд**#Searching#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Searching*##Првд#**@node Searching**#
+***СсылкиНаНоду#Searching#***
+##*(@pxref{Searching})*##Првд#**(@pxref{Searching})**#
+***КонецСсылкиНаНоду#Searching#***
+***КонецНода_#_Searching_#_***
+ЯкрНд**#Readline Init File#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Init File*##Првд#**@node Readline Init File**#
+***СсылкиНаНоду#Readline Init File#***
+##*(@pxref{Readline Init File})*##Првд#**(@pxref{Readline Init File})**#
+***КонецСсылкиНаНоду#Readline Init File#***
+***КонецНода_#_Readline Init File_#_***
+ЯкрНд**#Readline Init File Syntax#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline Init File Syntax*##Првд#**@node Readline Init File Syntax**#
+***КонецНода_#_Readline Init File Syntax_#_***
+ЯкрНд**#Conditional Init Constructs#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Conditional Init Constructs*##Првд#**@node Conditional Init Constructs**#
+***СсылкиНаНоду#Conditional Init Constructs#***
+##*(@pxref{Conditional Init Constructs})*##Првд#**(@pxref{Conditional Init Constructs})**#
+***КонецСсылкиНаНоду#Conditional Init Constructs#***
+***КонецНода_#_Conditional Init Constructs_#_***
+ЯкрНд**#Sample Init File#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Sample Init File*##Првд#**@node Sample Init File**#
+***КонецНода_#_Sample Init File_#_***
+ЯкрНд**#Bindable Readline Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Bindable Readline Commands*##Првд#**@node Bindable Readline Commands**#
+***СсылкиНаНоду#Bindable Readline Commands#***
+##*(@pxref{Bindable Readline Commands})*##Првд#**(@pxref{Bindable Readline Commands})**#
+***КонецСсылкиНаНоду#Bindable Readline Commands#***
+***КонецНода_#_Bindable Readline Commands_#_***
+ЯкрНд**#Commands For Moving#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Commands For Moving*##Првд#**@node Commands For Moving**#
+***КонецНода_#_Commands For Moving_#_***
+ЯкрНд**#Commands For History#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Commands For History*##Првд#**@node Commands For History**#
+***СсылкиНаНоду#Commands For History#***
+##*(@pxref{Commands For History})*##Првд#**(@pxref{Commands For History})**#
+***КонецСсылкиНаНоду#Commands For History#***
+***КонецНода_#_Commands For History_#_***
+ЯкрНд**#Commands For Text#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Commands For Text*##Првд#**@node Commands For Text**#
+***КонецНода_#_Commands For Text_#_***
+ЯкрНд**#Commands For Killing#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Commands For Killing*##Првд#**@node Commands For Killing**#
+***КонецНода_#_Commands For Killing_#_***
+ЯкрНд**#Numeric Arguments#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Numeric Arguments*##Првд#**@node Numeric Arguments**#
+***КонецНода_#_Numeric Arguments_#_***
+ЯкрНд**#Commands For Completion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Commands For Completion*##Првд#**@node Commands For Completion**#
+***СсылкиНаНоду#Commands For Completion#***
+##*(@pxref{Commands For Completion})*##Првд#**(@pxref{Commands For Completion})**#
+***КонецСсылкиНаНоду#Commands For Completion#***
+***КонецНода_#_Commands For Completion_#_***
+ЯкрНд**#Keyboard Macros#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Keyboard Macros*##Првд#**@node Keyboard Macros**#
+***КонецНода_#_Keyboard Macros_#_***
+ЯкрНд**#Miscellaneous Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Miscellaneous Commands*##Првд#**@node Miscellaneous Commands**#
+***КонецНода_#_Miscellaneous Commands_#_***
+ЯкрНд**#Readline vi Mode#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Readline vi Mode*##Првд#**@node Readline vi Mode**#
+***КонецНода_#_Readline vi Mode_#_***
+ЯкрНд**#Programmable Completion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Programmable Completion*##Првд#**@node Programmable Completion**#
+***СсылкиНаНоду#Programmable Completion#***
+##*(@pxref{Programmable Completion})*##Првд#**(@pxref{Programmable Completion})**#
+***КонецСсылкиНаНоду#Programmable Completion#***
+***КонецНода_#_Programmable Completion_#_***
+ЯкрНд**#Programmable Completion Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node Programmable Completion Builtins*##Првд#**@node Programmable Completion Builtins**#
+***СсылкиНаНоду#Programmable Completion Builtins#***
+##*(@pxref{Programmable Completion Builtins})*##Првд#**(@pxref{Programmable Completion Builtins})**#
+***КонецСсылкиНаНоду#Programmable Completion Builtins#***
+***КонецНода_#_Programmable Completion Builtins_#_***
+ЯкрНд**#A Programmable Completion Example#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/rluser.texi#_кнФйл_#
+ТчкНд***##*@node A Programmable Completion Example*##Првд#**@node A Programmable Completion Example**#
+***КонецНода_#_A Programmable Completion Example_#_***
+ЯкрНд**#Top, Introduction, (dir), (dir)#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Top, Introduction, (dir), (dir)*##Првд#**@node Top, Introduction, (dir), (dir)**#
+***КонецНода_#_Top, Introduction, (dir), (dir)_#_***
+ЯкрНд**#Introduction#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Introduction*##Првд#**@node Introduction**#
+***КонецНода_#_Introduction_#_***
+ЯкрНд**#What is Bash?#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node What is Bash?*##Првд#**@node What is Bash?**#
+***КонецНода_#_What is Bash?_#_***
+ЯкрНд**#What is a shell?#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node What is a shell?*##Првд#**@node What is a shell?**#
+***КонецНода_#_What is a shell?_#_***
+ЯкрНд**#Definitions#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Definitions*##Првд#**@node Definitions**#
+***СсылкиНаНоду#Definitions#***
+##*(@pxref{Definitions})*##Првд#**(@pxref{Definitions})**#
+***КонецСсылкиНаНоду#Definitions#***
+***КонецНода_#_Definitions_#_***
+ЯкрНд**#Basic Shell Features#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Basic Shell Features*##Првд#**@node Basic Shell Features**#
+***КонецНода_#_Basic Shell Features_#_***
+ЯкрНд**#Shell Syntax#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Syntax*##Првд#**@node Shell Syntax**#
+***КонецНода_#_Shell Syntax_#_***
+ЯкрНд**#Shell Operation#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Operation*##Првд#**@node Shell Operation**#
+***КонецНода_#_Shell Operation_#_***
+ЯкрНд**#Quoting#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Quoting*##Првд#**@node Quoting**#
+***СсылкиНаНоду#Quoting#***
+##*@ref{Quoting}*##Првд#**@ref{Quoting}**#
+***КонецСсылкиНаНоду#Quoting#***
+***КонецНода_#_Quoting_#_***
+ЯкрНд**#Escape Character#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Escape Character*##Првд#**@node Escape Character**#
+***КонецНода_#_Escape Character_#_***
+ЯкрНд**#Single Quotes#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Single Quotes*##Првд#**@node Single Quotes**#
+***КонецНода_#_Single Quotes_#_***
+ЯкрНд**#Double Quotes#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Double Quotes*##Првд#**@node Double Quotes**#
+***КонецНода_#_Double Quotes_#_***
+ЯкрНд**#ANSI-C Quoting#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node ANSI-C Quoting*##Првд#**@node ANSI-C Quoting**#
+***СсылкиНаНоду#ANSI-C Quoting#***
+##*(@pxref{ANSI-C Quoting})*##Првд#**(@pxref{ANSI-C Quoting})**#
+***КонецСсылкиНаНоду#ANSI-C Quoting#***
+***КонецНода_#_ANSI-C Quoting_#_***
+ЯкрНд**#Locale Translation#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Locale Translation*##Првд#**@node Locale Translation**#
+***СсылкиНаНоду#Locale Translation#***
+##*(@pxref{Locale Translation})*##Првд#**(@pxref{Locale Translation})**#
+***КонецСсылкиНаНоду#Locale Translation#***
+***КонецНода_#_Locale Translation_#_***
+ЯкрНд**#Comments#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Comments*##Првд#**@node Comments**#
+***КонецНода_#_Comments_#_***
+ЯкрНд**#Shell Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Commands*##Првд#**@node Shell Commands**#
+***СсылкиНаНоду#Shell Commands#***
+##*(@pxref{Shell Commands})*##Првд#**(@pxref{Shell Commands})**#
+***КонецСсылкиНаНоду#Shell Commands#***
+***КонецНода_#_Shell Commands_#_***
+ЯкрНд**#Simple Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Simple Commands*##Првд#**@node Simple Commands**#
+***СсылкиНаНоду#Simple Commands#***
+##*(@pxref{Simple Commands})*##Првд#**(@pxref{Simple Commands})**#
+***КонецСсылкиНаНоду#Simple Commands#***
+***КонецНода_#_Simple Commands_#_***
+ЯкрНд**#Pipelines#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Pipelines*##Првд#**@node Pipelines**#
+***СсылкиНаНоду#Pipelines#***
+##*(@pxref{Pipelines})*##Првд#**(@pxref{Pipelines})**#
+***КонецСсылкиНаНоду#Pipelines#***
+***КонецНода_#_Pipelines_#_***
+ЯкрНд**#Lists#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Lists*##Првд#**@node Lists**#
+***СсылкиНаНоду#Lists#***
+##*(@pxref{Lists})*##Првд#**(@pxref{Lists})**#
+***КонецСсылкиНаНоду#Lists#***
+***КонецНода_#_Lists_#_***
+ЯкрНд**#Compound Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Compound Commands*##Првд#**@node Compound Commands**#
+***СсылкиНаНоду#Compound Commands#***
+##*(@pxref{Compound Commands})*##Првд#**(@pxref{Compound Commands})**#
+***КонецСсылкиНаНоду#Compound Commands#***
+***КонецНода_#_Compound Commands_#_***
+ЯкрНд**#Looping Constructs#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Looping Constructs*##Првд#**@node Looping Constructs**#
+***СсылкиНаНоду#Looping Constructs#***
+##*(@pxref{Looping Constructs})*##Првд#**(@pxref{Looping Constructs})**#
+***КонецСсылкиНаНоду#Looping Constructs#***
+***КонецНода_#_Looping Constructs_#_***
+ЯкрНд**#Conditional Constructs#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Conditional Constructs*##Првд#**@node Conditional Constructs**#
+***СсылкиНаНоду#Conditional Constructs#***
+##*(@pxref{Conditional Constructs})*##Првд#**(@pxref{Conditional Constructs})**#
+***КонецСсылкиНаНоду#Conditional Constructs#***
+***КонецНода_#_Conditional Constructs_#_***
+ЯкрНд**#Command Grouping#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Command Grouping*##Првд#**@node Command Grouping**#
+***КонецНода_#_Command Grouping_#_***
+ЯкрНд**#Coprocesses#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Coprocesses*##Првд#**@node Coprocesses**#
+***СсылкиНаНоду#Coprocesses#***
+##*(@pxref{Coprocesses})*##Првд#**(@pxref{Coprocesses})**#
+***КонецСсылкиНаНоду#Coprocesses#***
+***КонецНода_#_Coprocesses_#_***
+ЯкрНд**#GNU Parallel#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node GNU Parallel*##Првд#**@node GNU Parallel**#
+***КонецНода_#_GNU Parallel_#_***
+ЯкрНд**#Shell Functions#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Functions*##Првд#**@node Shell Functions**#
+***СсылкиНаНоду#Shell Functions#***
+##*(@pxref{Shell Functions})*##Првд#**(@pxref{Shell Functions})**#
+##*@ref{Shell Functions}*##Првд#**@ref{Shell Functions}**#
+***КонецСсылкиНаНоду#Shell Functions#***
+***КонецНода_#_Shell Functions_#_***
+ЯкрНд**#Shell Parameters#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Parameters*##Првд#**@node Shell Parameters**#
+***СсылкиНаНоду#Shell Parameters#***
+##*(@pxref{Shell Parameters})*##Првд#**(@pxref{Shell Parameters})**#
+##*@ref{Shell Parameters}*##Првд#**@ref{Shell Parameters}**#
+***КонецСсылкиНаНоду#Shell Parameters#***
+***КонецНода_#_Shell Parameters_#_***
+ЯкрНд**#Positional Parameters#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Positional Parameters*##Првд#**@node Positional Parameters**#
+***СсылкиНаНоду#Positional Parameters#***
+##*(@pxref{Positional Parameters})*##Првд#**(@pxref{Positional Parameters})**#
+***КонецСсылкиНаНоду#Positional Parameters#***
+***КонецНода_#_Positional Parameters_#_***
+ЯкрНд**#Special Parameters#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Special Parameters*##Првд#**@node Special Parameters**#
+***СсылкиНаНоду#Special Parameters#***
+##*(@pxref{Special Parameters})*##Првд#**(@pxref{Special Parameters})**#
+##*@xref{Special Parameters}*##Првд#**@xref{Special Parameters}**#
+***КонецСсылкиНаНоду#Special Parameters#***
+***КонецНода_#_Special Parameters_#_***
+ЯкрНд**#Shell Expansions#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Expansions*##Првд#**@node Shell Expansions**#
+***СсылкиНаНоду#Shell Expansions#***
+##*(@pxref{Shell Expansions})*##Првд#**(@pxref{Shell Expansions})**#
+***КонецСсылкиНаНоду#Shell Expansions#***
+***КонецНода_#_Shell Expansions_#_***
+ЯкрНд**#Brace Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Brace Expansion*##Првд#**@node Brace Expansion**#
+***СсылкиНаНоду#Brace Expansion#***
+##*(@pxref{Brace Expansion})*##Првд#**(@pxref{Brace Expansion})**#
+##*@ref{Brace Expansion}*##Првд#**@ref{Brace Expansion}**#
+***КонецСсылкиНаНоду#Brace Expansion#***
+***КонецНода_#_Brace Expansion_#_***
+ЯкрНд**#Tilde Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Tilde Expansion*##Првд#**@node Tilde Expansion**#
+***СсылкиНаНоду#Tilde Expansion#***
+##*(@pxref{Tilde Expansion})*##Првд#**(@pxref{Tilde Expansion})**#
+##*@ref{Tilde Expansion}*##Првд#**@ref{Tilde Expansion}**#
+***КонецСсылкиНаНоду#Tilde Expansion#***
+***КонецНода_#_Tilde Expansion_#_***
+ЯкрНд**#Shell Parameter Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Parameter Expansion*##Првд#**@node Shell Parameter Expansion**#
+***СсылкиНаНоду#Shell Parameter Expansion#***
+##*(@pxref{Shell Parameter Expansion})*##Првд#**(@pxref{Shell Parameter Expansion})**#
+***КонецСсылкиНаНоду#Shell Parameter Expansion#***
+***КонецНода_#_Shell Parameter Expansion_#_***
+ЯкрНд**#Command Substitution#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Command Substitution*##Првд#**@node Command Substitution**#
+***СсылкиНаНоду#Command Substitution#***
+##*(@pxref{Command Substitution})*##Првд#**(@pxref{Command Substitution})**#
+***КонецСсылкиНаНоду#Command Substitution#***
+***КонецНода_#_Command Substitution_#_***
+ЯкрНд**#Arithmetic Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Arithmetic Expansion*##Првд#**@node Arithmetic Expansion**#
+***СсылкиНаНоду#Arithmetic Expansion#***
+##*(@pxref{Arithmetic Expansion})*##Првд#**(@pxref{Arithmetic Expansion})**#
+***КонецСсылкиНаНоду#Arithmetic Expansion#***
+***КонецНода_#_Arithmetic Expansion_#_***
+ЯкрНд**#Process Substitution#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Process Substitution*##Првд#**@node Process Substitution**#
+***СсылкиНаНоду#Process Substitution#***
+##*(@pxref{Process Substitution})*##Првд#**(@pxref{Process Substitution})**#
+***КонецСсылкиНаНоду#Process Substitution#***
+***КонецНода_#_Process Substitution_#_***
+ЯкрНд**#Word Splitting#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Word Splitting*##Првд#**@node Word Splitting**#
+***СсылкиНаНоду#Word Splitting#***
+##*(@pxref{Word Splitting})*##Првд#**(@pxref{Word Splitting})**#
+##*@ref{Word Splitting}*##Првд#**@ref{Word Splitting}**#
+***КонецСсылкиНаНоду#Word Splitting#***
+***КонецНода_#_Word Splitting_#_***
+ЯкрНд**#Filename Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Filename Expansion*##Првд#**@node Filename Expansion**#
+***СсылкиНаНоду#Filename Expansion#***
+##*(@pxref{Filename Expansion})*##Првд#**(@pxref{Filename Expansion})**#
+***КонецСсылкиНаНоду#Filename Expansion#***
+***КонецНода_#_Filename Expansion_#_***
+ЯкрНд**#Pattern Matching#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Pattern Matching*##Првд#**@node Pattern Matching**#
+***СсылкиНаНоду#Pattern Matching#***
+##*@ref{Pattern Matching}*##Првд#**@ref{Pattern Matching}**#
+##*(@pxref{Pattern Matching})*##Првд#**(@pxref{Pattern Matching})**#
+***КонецСсылкиНаНоду#Pattern Matching#***
+***КонецНода_#_Pattern Matching_#_***
+ЯкрНд**#Quote Removal#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Quote Removal*##Првд#**@node Quote Removal**#
+***СсылкиНаНоду#Quote Removal#***
+##*(@pxref{Quote Removal})*##Првд#**(@pxref{Quote Removal})**#
+***КонецСсылкиНаНоду#Quote Removal#***
+***КонецНода_#_Quote Removal_#_***
+ЯкрНд**#Redirections#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Redirections*##Првд#**@node Redirections**#
+***СсылкиНаНоду#Redirections#***
+##*@xref{Redirections}*##Првд#**@xref{Redirections}**#
+##*(@pxref{Redirections})*##Првд#**(@pxref{Redirections})**#
+***КонецСсылкиНаНоду#Redirections#***
+***КонецНода_#_Redirections_#_***
+ЯкрНд**#Executing Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Executing Commands*##Првд#**@node Executing Commands**#
+***СсылкиНаНоду#Executing Commands#***
+##*(@pxref{Executing Commands})*##Првд#**(@pxref{Executing Commands})**#
+***КонецСсылкиНаНоду#Executing Commands#***
+***КонецНода_#_Executing Commands_#_***
+ЯкрНд**#Simple Command Expansion#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Simple Command Expansion*##Првд#**@node Simple Command Expansion**#
+***КонецНода_#_Simple Command Expansion_#_***
+ЯкрНд**#Command Search and Execution#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Command Search and Execution*##Првд#**@node Command Search and Execution**#
+***КонецНода_#_Command Search and Execution_#_***
+ЯкрНд**#Command Execution Environment#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Command Execution Environment*##Првд#**@node Command Execution Environment**#
+***СсылкиНаНоду#Command Execution Environment#***
+##*(@pxref{Command Execution Environment})*##Првд#**(@pxref{Command Execution Environment})**#
+***КонецСсылкиНаНоду#Command Execution Environment#***
+***КонецНода_#_Command Execution Environment_#_***
+ЯкрНд**#Environment#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Environment*##Првд#**@node Environment**#
+***СсылкиНаНоду#Environment#***
+##*(@pxref{Environment})*##Првд#**(@pxref{Environment})**#
+***КонецСсылкиНаНоду#Environment#***
+***КонецНода_#_Environment_#_***
+ЯкрНд**#Exit Status#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Exit Status*##Првд#**@node Exit Status**#
+***СсылкиНаНоду#Exit Status#***
+##*(@pxref{Exit Status})*##Првд#**(@pxref{Exit Status})**#
+***КонецСсылкиНаНоду#Exit Status#***
+***КонецНода_#_Exit Status_#_***
+ЯкрНд**#Signals#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Signals*##Првд#**@node Signals**#
+***СсылкиНаНоду#Signals#***
+##*(@pxref{Signals})*##Првд#**(@pxref{Signals})**#
+***КонецСсылкиНаНоду#Signals#***
+***КонецНода_#_Signals_#_***
+ЯкрНд**#Shell Scripts#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Scripts*##Првд#**@node Shell Scripts**#
+***СсылкиНаНоду#Shell Scripts#***
+##*(@pxref{Shell Scripts})*##Првд#**(@pxref{Shell Scripts})**#
+##*@ref{Shell Scripts}*##Првд#**@ref{Shell Scripts}**#
+***КонецСсылкиНаНоду#Shell Scripts#***
+***КонецНода_#_Shell Scripts_#_***
+ЯкрНд**#Shell Builtin Commands#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Builtin Commands*##Првд#**@node Shell Builtin Commands**#
+***СсылкиНаНоду#Shell Builtin Commands#***
+##*(@pxref{Shell Builtin Commands})*##Првд#**(@pxref{Shell Builtin Commands})**#
+***КонецСсылкиНаНоду#Shell Builtin Commands#***
+***КонецНода_#_Shell Builtin Commands_#_***
+ЯкрНд**#Bourne Shell Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bourne Shell Builtins*##Првд#**@node Bourne Shell Builtins**#
+***СсылкиНаНоду#Bourne Shell Builtins#***
+##*(@pxref{Bourne Shell Builtins})*##Првд#**(@pxref{Bourne Shell Builtins})**#
+##*@xref{Bourne Shell Builtins}*##Првд#**@xref{Bourne Shell Builtins}**#
+##*@ref{Bourne Shell Builtins}*##Првд#**@ref{Bourne Shell Builtins}**#
+***КонецСсылкиНаНоду#Bourne Shell Builtins#***
+***КонецНода_#_Bourne Shell Builtins_#_***
+ЯкрНд**#Bash Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash Builtins*##Првд#**@node Bash Builtins**#
+***СсылкиНаНоду#Bash Builtins#***
+##*(@pxref{Bash Builtins})*##Првд#**(@pxref{Bash Builtins})**#
+##*@xref{Bash Builtins}*##Првд#**@xref{Bash Builtins}**#
+##*@ref{Bash Builtins}*##Првд#**@ref{Bash Builtins}**#
+***КонецСсылкиНаНоду#Bash Builtins#***
+***КонецНода_#_Bash Builtins_#_***
+ЯкрНд**#Modifying Shell Behavior#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Modifying Shell Behavior*##Првд#**@node Modifying Shell Behavior**#
+***КонецНода_#_Modifying Shell Behavior_#_***
+ЯкрНд**#The Set Builtin#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node The Set Builtin*##Првд#**@node The Set Builtin**#
+***СсылкиНаНоду#The Set Builtin#***
+##*(@pxref{The Set Builtin})*##Првд#**(@pxref{The Set Builtin})**#
+***КонецСсылкиНаНоду#The Set Builtin#***
+***КонецНода_#_The Set Builtin_#_***
+ЯкрНд**#The Shopt Builtin#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node The Shopt Builtin*##Првд#**@node The Shopt Builtin**#
+***СсылкиНаНоду#The Shopt Builtin#***
+##*@xref{The Shopt Builtin}*##Првд#**@xref{The Shopt Builtin}**#
+##*(@pxref{The Shopt Builtin})*##Првд#**(@pxref{The Shopt Builtin})**#
+##*@ref{The Shopt Builtin}*##Првд#**@ref{The Shopt Builtin}**#
+***КонецСсылкиНаНоду#The Shopt Builtin#***
+***КонецНода_#_The Shopt Builtin_#_***
+ЯкрНд**#Special Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Special Builtins*##Првд#**@node Special Builtins**#
+***СсылкиНаНоду#Special Builtins#***
+##*(@pxref{Special Builtins})*##Првд#**(@pxref{Special Builtins})**#
+***КонецСсылкиНаНоду#Special Builtins#***
+***КонецНода_#_Special Builtins_#_***
+ЯкрНд**#Shell Variables#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Variables*##Првд#**@node Shell Variables**#
+***КонецНода_#_Shell Variables_#_***
+ЯкрНд**#Bourne Shell Variables#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bourne Shell Variables*##Првд#**@node Bourne Shell Variables**#
+***КонецНода_#_Bourne Shell Variables_#_***
+ЯкрНд**#Bash Variables#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash Variables*##Првд#**@node Bash Variables**#
+***СсылкиНаНоду#Bash Variables#***
+##*(@pxref{Bash Variables})*##Првд#**(@pxref{Bash Variables})**#
+##*@xref{Bash Variables}*##Првд#**@xref{Bash Variables}**#
+***КонецСсылкиНаНоду#Bash Variables#***
+***КонецНода_#_Bash Variables_#_***
+ЯкрНд**#Bash Features#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash Features*##Првд#**@node Bash Features**#
+***СсылкиНаНоду#Bash Features#***
+##*@ref{Bash Features}*##Првд#**@ref{Bash Features}**#
+***КонецСсылкиНаНоду#Bash Features#***
+***КонецНода_#_Bash Features_#_***
+ЯкрНд**#Invoking Bash#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Invoking Bash*##Првд#**@node Invoking Bash**#
+***СсылкиНаНоду#Invoking Bash#***
+##*(@pxref{Invoking Bash})*##Првд#**(@pxref{Invoking Bash})**#
+***КонецСсылкиНаНоду#Invoking Bash#***
+***КонецНода_#_Invoking Bash_#_***
+ЯкрНд**#Bash Startup Files#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash Startup Files*##Првд#**@node Bash Startup Files**#
+***СсылкиНаНоду#Bash Startup Files#***
+##*@xref{Bash Startup Files}*##Првд#**@xref{Bash Startup Files}**#
+##*@ref{Bash Startup Files}*##Првд#**@ref{Bash Startup Files}**#
+***КонецСсылкиНаНоду#Bash Startup Files#***
+***КонецНода_#_Bash Startup Files_#_***
+ЯкрНд**#Interactive Shells#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Interactive Shells*##Првд#**@node Interactive Shells**#
+***СсылкиНаНоду#Interactive Shells#***
+##*@xref{Interactive Shells}*##Првд#**@xref{Interactive Shells}**#
+##*@ref{Interactive Shells}*##Првд#**@ref{Interactive Shells}**#
+***КонецСсылкиНаНоду#Interactive Shells#***
+***КонецНода_#_Interactive Shells_#_***
+ЯкрНд**#What is an Interactive Shell?#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node What is an Interactive Shell?*##Првд#**@node What is an Interactive Shell?**#
+***КонецНода_#_What is an Interactive Shell?_#_***
+ЯкрНд**#Is this Shell Interactive?#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Is this Shell Interactive?*##Првд#**@node Is this Shell Interactive?**#
+***КонецНода_#_Is this Shell Interactive?_#_***
+ЯкрНд**#Interactive Shell Behavior#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Interactive Shell Behavior*##Првд#**@node Interactive Shell Behavior**#
+***КонецНода_#_Interactive Shell Behavior_#_***
+ЯкрНд**#Bash Conditional Expressions#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash Conditional Expressions*##Првд#**@node Bash Conditional Expressions**#
+***СсылкиНаНоду#Bash Conditional Expressions#***
+##*@ref{Bash Conditional Expressions}*##Првд#**@ref{Bash Conditional Expressions}**#
+##*(@pxref{Bash Conditional Expressions})*##Првд#**(@pxref{Bash Conditional Expressions})**#
+***КонецСсылкиНаНоду#Bash Conditional Expressions#***
+***КонецНода_#_Bash Conditional Expressions_#_***
+ЯкрНд**#Shell Arithmetic#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Shell Arithmetic*##Првд#**@node Shell Arithmetic**#
+***СсылкиНаНоду#Shell Arithmetic#***
+##*(@pxref{Shell Arithmetic})*##Првд#**(@pxref{Shell Arithmetic})**#
+##*@ref{Shell Arithmetic}*##Првд#**@ref{Shell Arithmetic}**#
+***КонецСсылкиНаНоду#Shell Arithmetic#***
+***КонецНода_#_Shell Arithmetic_#_***
+ЯкрНд**#Aliases#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Aliases*##Првд#**@node Aliases**#
+***СсылкиНаНоду#Aliases#***
+##*(@pxref{Aliases})*##Првд#**(@pxref{Aliases})**#
+##*@ref{Aliases}*##Првд#**@ref{Aliases}**#
+***КонецСсылкиНаНоду#Aliases#***
+***КонецНода_#_Aliases_#_***
+ЯкрНд**#Arrays#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Arrays*##Првд#**@node Arrays**#
+***СсылкиНаНоду#Arrays#***
+##*(@pxref{Arrays})*##Првд#**(@pxref{Arrays})**#
+***КонецСсылкиНаНоду#Arrays#***
+***КонецНода_#_Arrays_#_***
+ЯкрНд**#The Directory Stack#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node The Directory Stack*##Првд#**@node The Directory Stack**#
+***СсылкиНаНоду#The Directory Stack#***
+##*(@pxref{The Directory Stack})*##Првд#**(@pxref{The Directory Stack})**#
+***КонецСсылкиНаНоду#The Directory Stack#***
+***КонецНода_#_The Directory Stack_#_***
+ЯкрНд**#Directory Stack Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Directory Stack Builtins*##Првд#**@node Directory Stack Builtins**#
+***СсылкиНаНоду#Directory Stack Builtins#***
+##*(@pxref{Directory Stack Builtins})*##Првд#**(@pxref{Directory Stack Builtins})**#
+***КонецСсылкиНаНоду#Directory Stack Builtins#***
+***КонецНода_#_Directory Stack Builtins_#_***
+ЯкрНд**#Controlling the Prompt#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Controlling the Prompt*##Првд#**@node Controlling the Prompt**#
+***СсылкиНаНоду#Controlling the Prompt#***
+##*(@pxref{Controlling the Prompt})*##Првд#**(@pxref{Controlling the Prompt})**#
+##*@xref{Controlling the Prompt}*##Првд#**@xref{Controlling the Prompt}**#
+##*@ref{Controlling the Prompt}*##Првд#**@ref{Controlling the Prompt}**#
+***КонецСсылкиНаНоду#Controlling the Prompt#***
+***КонецНода_#_Controlling the Prompt_#_***
+ЯкрНд**#The Restricted Shell#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node The Restricted Shell*##Првд#**@node The Restricted Shell**#
+***СсылкиНаНоду#The Restricted Shell#***
+##*(@pxref{The Restricted Shell})*##Првд#**(@pxref{The Restricted Shell})**#
+##*@ref{The Restricted Shell}*##Првд#**@ref{The Restricted Shell}**#
+***КонецСсылкиНаНоду#The Restricted Shell#***
+***КонецНода_#_The Restricted Shell_#_***
+ЯкрНд**#Bash POSIX Mode#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Bash POSIX Mode*##Првд#**@node Bash POSIX Mode**#
+***СсылкиНаНоду#Bash POSIX Mode#***
+##*(@pxref{Bash POSIX Mode})*##Првд#**(@pxref{Bash POSIX Mode})**#
+##*@ref{Bash POSIX Mode}*##Првд#**@ref{Bash POSIX Mode}**#
+##*@xref{Bash POSIX Mode}*##Првд#**@xref{Bash POSIX Mode}**#
+***КонецСсылкиНаНоду#Bash POSIX Mode#***
+***КонецНода_#_Bash POSIX Mode_#_***
+ЯкрНд**#Job Control#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Job Control*##Првд#**@node Job Control**#
+***СсылкиНаНоду#Job Control#***
+##*(@pxref{Job Control})*##Првд#**(@pxref{Job Control})**#
+***КонецСсылкиНаНоду#Job Control#***
+***КонецНода_#_Job Control_#_***
+ЯкрНд**#Job Control Basics#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Job Control Basics*##Првд#**@node Job Control Basics**#
+***СсылкиНаНоду#Job Control Basics#***
+##*(@pxref{Job Control Basics})*##Првд#**(@pxref{Job Control Basics})**#
+***КонецСсылкиНаНоду#Job Control Basics#***
+***КонецНода_#_Job Control Basics_#_***
+ЯкрНд**#Job Control Builtins#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Job Control Builtins*##Првд#**@node Job Control Builtins**#
+***СсылкиНаНоду#Job Control Builtins#***
+##*(@pxref{Job Control Builtins})*##Првд#**(@pxref{Job Control Builtins})**#
+***КонецСсылкиНаНоду#Job Control Builtins#***
+***КонецНода_#_Job Control Builtins_#_***
+ЯкрНд**#Job Control Variables#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Job Control Variables*##Првд#**@node Job Control Variables**#
+***СсылкиНаНоду#Job Control Variables#***
+##*(@pxref{Job Control Variables})*##Првд#**(@pxref{Job Control Variables})**#
+***КонецСсылкиНаНоду#Job Control Variables#***
+***КонецНода_#_Job Control Variables_#_***
+ЯкрНд**#Installing Bash#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Installing Bash*##Првд#**@node Installing Bash**#
+***КонецНода_#_Installing Bash_#_***
+ЯкрНд**#Basic Installation#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Basic Installation*##Првд#**@node Basic Installation**#
+***СсылкиНаНоду#Basic Installation#***
+##*(@pxref{Basic Installation})*##Првд#**(@pxref{Basic Installation})**#
+***КонецСсылкиНаНоду#Basic Installation#***
+***КонецНода_#_Basic Installation_#_***
+ЯкрНд**#Compilers and Options#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Compilers and Options*##Првд#**@node Compilers and Options**#
+***КонецНода_#_Compilers and Options_#_***
+ЯкрНд**#Compiling For Multiple Architectures#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Compiling For Multiple Architectures*##Првд#**@node Compiling For Multiple Architectures**#
+***КонецНода_#_Compiling For Multiple Architectures_#_***
+ЯкрНд**#Installation Names#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Installation Names*##Првд#**@node Installation Names**#
+***КонецНода_#_Installation Names_#_***
+ЯкрНд**#Specifying the System Type#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Specifying the System Type*##Првд#**@node Specifying the System Type**#
+***КонецНода_#_Specifying the System Type_#_***
+ЯкрНд**#Sharing Defaults#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Sharing Defaults*##Првд#**@node Sharing Defaults**#
+***КонецНода_#_Sharing Defaults_#_***
+ЯкрНд**#Operation Controls#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Operation Controls*##Првд#**@node Operation Controls**#
+***КонецНода_#_Operation Controls_#_***
+ЯкрНд**#Optional Features#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Optional Features*##Првд#**@node Optional Features**#
+***СсылкиНаНоду#Optional Features#***
+##*(@pxref{Optional Features})*##Првд#**(@pxref{Optional Features})**#
+***КонецСсылкиНаНоду#Optional Features#***
+***КонецНода_#_Optional Features_#_***
+ЯкрНд**#Reporting Bugs#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Reporting Bugs*##Првд#**@node Reporting Bugs**#
+***КонецНода_#_Reporting Bugs_#_***
+ЯкрНд**#Major Differences From The Bourne Shell#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Major Differences From The Bourne Shell*##Првд#**@node Major Differences From The Bourne Shell**#
+***КонецНода_#_Major Differences From The Bourne Shell_#_***
+ЯкрНд**#GNU Free Documentation License#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node GNU Free Documentation License*##Првд#**@node GNU Free Documentation License**#
+***КонецНода_#_GNU Free Documentation License_#_***
+ЯкрНд**#Indexes#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Indexes*##Првд#**@node Indexes**#
+***КонецНода_#_Indexes_#_***
+ЯкрНд**#Builtin Index#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Builtin Index*##Првд#**@node Builtin Index**#
+***КонецНода_#_Builtin Index_#_***
+ЯкрНд**#Reserved Word Index#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Reserved Word Index*##Првд#**@node Reserved Word Index**#
+***КонецНода_#_Reserved Word Index_#_***
+ЯкрНд**#Variable Index#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Variable Index*##Првд#**@node Variable Index**#
+***КонецНода_#_Variable Index_#_***
+ЯкрНд**#Function Index#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Function Index*##Првд#**@node Function Index**#
+***КонецНода_#_Function Index_#_***
+ЯкрНд**#Concept Index#**#_Фйл_#/home/alamd/example/funEl/expirement/perevod_bash6/bash.texi#_кнФйл_#
+ТчкНд***##*@node Concept Index*##Првд#**@node Concept Index**#
+***КонецНода_#_Concept Index_#_***

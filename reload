@@ -1,0 +1,8 @@
+(insert (concat "ЯкрНд**#" (car ткЯкрНд) "#**#_Фйл_#" (cdr (assoc "Файл" ткЯкрНд)) "#_кнФйл_#"))
+
+(insert (concat "***СсылкиНаНоду#" (car ткЯкрНд) "#***"))
+
+(insert (concat "***КонецСсылкиНаНоду#" (car ткЯкрНд) "#***"))
+
+(insert (concat "***КонецНода_#_" (cdr (assoc "ЯкорьНода" ткЯкрНд)) "_#_***")
+(@pxref{History Interaction})
